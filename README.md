@@ -8,7 +8,9 @@ Growth requires change, and change can be scary.
 The growth mindset teaches that with the right attitude, you can embrace change and face the challenges needed to grow. 
 
 So what kind of mindset helps you get into a growth mentality? 
-I recently read an article at [https://www.atlassian.com/blog/inside-atlassian/growth-mindsetand], and a few thoughts stood out to help challenge and push me towards success as I embrace a huge life change: ***my career***. 
+I recently read an [article](https://www.atlassian.com/blog/inside-atlassian/growth-mindsetand), and a few thoughts stood out to help challenge and push me towards success as I embrace a huge life change: ***my career***. 
+
+My name is Eva Grace. After spending over a decade working with youth, I have decided to combine my passions for art, youth, and photography, and launch a new career as a web developer. You can follow along with me in this grand new adventure on [GitHub](https://github.com/EvaGraceSmith)
 
 ![Growth Mindset Chart](/NewGrowthMindset2.png)
 
