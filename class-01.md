@@ -22,3 +22,6 @@ The growth mindset continues to persist when faced with obstacles rather than lo
 
 * **Effort:**
 The growth mindset recognizes that effort is required for growth. The effort can be painful, but a growth mindset focuses you back on the reward at the end of the effort, versus getting discouraged by the effort, and losing sight of your goal. 
+
+**new**
+
