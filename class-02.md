@@ -1,4 +1,14 @@
-### Class 02 Reading Notes #
+# Class 02 Reading Notes #
+
+##Code Editor features:
+
+* *code completion*. Code completion allows you to start typing, and the code completion feature will display possible suggestions based on what you originally typed.
+* *Emmet* shorthand language will speed up your code writing faster than you can imagine.
+* *Syntax Highlighting* is a feature that takes the text you type, and makes it more noticeable by colorizing the text.
+* *themes* will allow you to change the color of the background of your text editor, the series of colors in your text, and sometimes themes will affect other aspects of your text editing software as well.
+* *Extensions* are like plugins for your text editor, that allow you to have superpowers that you wouldn’t have otherwise.
+
+
 
 
 ## Command Line Tutorial

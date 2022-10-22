@@ -26,3 +26,6 @@ All bold and italic	*** ***		***All this text is important***	All this text is i
 
 Quoting text
 You can quote text with a >.
+
+Code
+To denote a word or phrase as code, enclose it in backticks (`).

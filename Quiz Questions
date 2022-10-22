@@ -1,0 +1,13 @@
+#Class-01
+
+1.) How do you create ul bulleted list in Markdown?
+    a: * or - or + will create bullets
+2.) What is the format for creating a hyperlink?
+    a:To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses (e.g., (https://duckduckgo.com)).
+3.) What effect, if any ,do these have in markdown
+    a: Code - To denote a word or phrase as code, enclose it in backticks (`).
+    & has no effect
+4.) How do you insert images into pages?
+    a: To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title in quotation marks after the path or URL.
+5.) How do you create a hyperlink?
+    a: You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ).
