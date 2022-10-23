@@ -20,3 +20,12 @@ Code completions, Syntax highlighting, Extensions
 2.) know how to get to folders in command
 3.) command line for version: "application name" --version
 4.) command to see a tree: ..
+
+#Class-03 Git
+1.) Git enable collaboration between multiple developers on a software project.
+    Git allows you to track file revisions to show a change history
+    Git reduces risk of data loss, since files are synchronized iwth remote repositories
+2.) The message you write to go along with a commit should contain
+    a brief explanation of why you made the changes you are commiting
+3.) Add, Commit, push
+4.)    
