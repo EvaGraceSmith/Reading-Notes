@@ -1,18 +1,19 @@
-JavaScript
+# JavaScript
 
-https://code-maven.com/introduction-to-javascript
+<https://code-maven.com/introduction-to-javascript>
 
-### We can distinguish 3 major parts of what we usually refer to as "JavaScript".
+### We can distinguish 3 major parts of what we usually refer to as "JavaScript"
 
 1. The language itself. This is fairly standard among the various environments, both in the various browsers and in the various server-side environments.
 2. The DOM API - how the language can interact with the various parts of a web page while in the browser. While in this respect the various browsers are getting closer to each other they still differ. Several libraries, most prominently JQuery, is trying to provide a unified API.
 3. The server API (or just API) provided by Node.js or one of the other server-side systems.
 
-
 ### So what can it really do?
+
 The core client-side JavaScript language consists of some common programming features that allow you to do things like:
-* Store useful values inside variables. 
-* Operations on pieces of text (known as "strings" in programming). 
+
+* Store useful values inside variables.
+* Operations on pieces of text (known as "strings" in programming).
 * Running code in response to certain events occurring on a web page. We used a click event in our example above to detect when the label is clicked and then run the code that updates the text label.
 * And much more!
 
@@ -25,14 +26,16 @@ Browser APIs are built into your web browser, and are able to expose data from 
 Third party APIs are not built into the browser by default, and you generally have to grab their code and information from somewhere on the Web. For example:
 
 ### JavaScript running order
+
 When the browser encounters a block of JavaScript, it generally runs it in order, from top to bottom.
 
 ### Script Tag
-- Browser executes the code
-- Front end Frameworks
-- JS is interpreted language. 
-- Read line by line top to bottom
-- Node JS- back end
+
+* Browser executes the code
+* Front end Frameworks
+* JS is interpreted language.
+* Read line by line top to bottom
+* Node JS- back end
 
 Fast- JS
 Faster - GO
@@ -40,6 +43,7 @@ Fastest - C++
 Primitives and compounds
 
 ### Variables
+
 4 ways to Declare a JavaScript Variable:
 1.) Var
 2.) Let
@@ -60,10 +64,3 @@ Creates conditionals
 If, then
 Orchestrate the logic
 Operators- perform arithmetic
-
-
-
-
-
-
-
