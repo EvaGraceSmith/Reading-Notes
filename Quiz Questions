@@ -11,3 +11,12 @@
     a: To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title in quotation marks after the path or URL.
 5.) How do you create a hyperlink?
     a: You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ).
+
+
+#Class-02
+
+1.) Good Code Editor will include
+Code completions, Syntax highlighting, Extensions
+2.) know how to get to folders in command
+3.) command line for version: "application name" --version
+4.) command to see a tree: ..
