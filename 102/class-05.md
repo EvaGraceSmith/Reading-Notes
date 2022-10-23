@@ -1,4 +1,6 @@
-###CSS
+## CSS
+
+CSS is a language for specifying how documents are presented to users — how they are styled, laid out, etc.
 
 Cascading Style Sheets
 
