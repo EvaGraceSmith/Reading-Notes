@@ -29,3 +29,13 @@ Code completions, Syntax highlighting, Extensions
     a brief explanation of why you made the changes you are commiting
 3.) Add, Commit, push
 4.)    
+
+#Class-04 HTML
+1.) HTML- Hypertext Markup Language
+2.) 3 components of HTML element
+    An opening tag
+    Contents within the tag
+    A closing tag
+3.) NON semantic HTML are:
+    span, div
+4.) HTML is used to define the structure of a web page    
