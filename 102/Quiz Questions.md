@@ -17,6 +17,17 @@
 1.) Good Code Editor will include
 Code completions, Syntax highlighting, Extensions
 2.) know how to get to folders in command
+
+cd ~
+cd codefellows
+cd code102
+ls -ia
+
+ls -la -/codefellow/code102
+
+cd~/codefellows/code102/ls-la
+
+
 3.) command line for version: "application name" --version
 4.) command to see a tree: ..
 
@@ -26,17 +37,18 @@ Code completions, Syntax highlighting, Extensions
     Git reduces risk of data loss, since files are synchronized iwth remote repositories
 2.) The message you write to go along with a commit should contain
     a brief explanation of why you made the changes you are commiting
-3.) Add, Commit, push
+3.) Add , Commit, push
 4.)
 
 ### Class-04 HTML
 1.) HTML- Hypertext Markup Language
-2.) 3 components of HTML element
+2.) 3 components of HTML element WRONG!! missing one?
     An opening tag
     Contents within the tag
     A closing tag
 3.) NON semantic HTML are:
-    span, div
+    span, div, b, head
+    semantic are  article, main, nav header footer strong
 4.) HTML is used to define the structure of a web page
 
 ### Class-05 CSS
@@ -51,7 +63,7 @@ Code completions, Syntax highlighting, Extensions
   p- element selector
   #-id selector
   * Universal selector
-  . class selector
+  .new class selector
 5. What code returns a blue color?
   rgba(37,142,255,1) 
   #23F 
@@ -75,6 +87,7 @@ a number is a number
 1. ( ){ } & var
 2. 
 A well-named function communicates clearly it's purpose. 
+
 Functions make code reusable.
 
 Functions help us avoid repeated code.
@@ -91,7 +104,11 @@ Functions are invoked by using parenthesis
 1.for ( i = 1 to 5 ) {
   console.log(i);
 }
-2.
+2.numeric value = a while loop
+password entered = a while loop
+products in shopping cart = a for loop
+display all the books= a for loop
+
 3.let answer = ''; 
 while (answer !== 'S3kreT P455w0rD') {
   answer = prompt('Enter the passphrase to proceed...');
