@@ -5,21 +5,22 @@ Skim [Website Design and Process.](https://developer.mozilla.org/en-US/docs/Lear
 Read the following sections of [JavaScript Basics: Start at “What is JavaScript?”](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics), read through “Comments” section.
 
 ## Compose a short poem describing how HTTP sends data between computers. 
-        * Client request
-        * this is the best
-        * Server responds
-        * this is the bomb
+ * Client request
+ * this is the best
+ * Server responds
+* this is the bomb
 
 ## Describe how HTML, CSS, and JS files are “parsed” in the browser.
 They are parsed in this order:
 1. HTML
 2. CSS
-3 JS
+3. JS
+
 ## How can you find images to add to a Website?
 
 * Go to Google Images and search.
 * When you find the image you want, click on the image to get an enlarged view of it.
- *Right-click the image (Ctrl + click on a Mac), choose Save Image As…, and choose a safe place to save your image. Alternatively, copy the image's web address from your browser's address bar for later use.
+* Right-click the image (Ctrl + click on a Mac), choose Save Image As…, and choose a safe place to save your image. Alternatively, copy the image's web address from your browser's address bar for later use.
 
 ## How do you create a String vs a Number in JavaScript?
 To signify that the value is a string, enclose it in single quote marks.	let myVariable = 'Bob';
@@ -42,9 +43,9 @@ Attributes contain extra information about the element that won't appear in the 
 * **The content:** This is the content of the element. 
 * **The closing tag:** This is the same as the opening tag, except that it includes a forward slash before the element name. 
 
-## What is the Difference between <article> and <section> element tags?
-<article> encloses a block of related content that makes sense on its own without the rest of the page (e.g., a single blog post).
-<section> is similar to <article>, but it is more for grouping together a single part of the page that constitutes one single piece of functionality 
+## What is the Difference between \<article> and \<section> element tags?
+\<article> encloses a block of related content that makes sense on its own without the rest of the page (e.g., a single blog post).
+\<section> is similar to \<article>, but it is more for grouping together a single part of the page that constitutes one single piece of functionality 
 
 ## What Elements does a “typical” website include?
 * <html></html>: The <html> element. This element wraps all the content on the page. It is sometimes known as the root element.
@@ -77,8 +78,8 @@ What exactly do I want to accomplish?
 
 [Semantics.](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
-## Why should you use an <h1> element over a <span> element to display a top level heading?
- the <h1> element gives the text it wraps around the role of a top level heading on your page.
+## Why should you use an /<h1> element over a "<span>" element to display a top level heading?
+ the "<h1>" element gives the text it wraps around the role of a top level heading on your page.
 ## What are the benefits of using semantic tags in our HTML?
 It gives the piece of code meaning.
 
@@ -103,8 +104,8 @@ Copy to Clipboard
 ### External Directions:
 
 1. First, create a new file in the same directory as your sample HTML file. Call it script.js — make sure it has that .js filename extension, as that's how it is recognized as JavaScript.
-2. Replace your current <script> element with the following:
-<script src="script.js" defer></script>
+2. Replace your current "<script>" element with the following:
+"<script src="script.js" defer></script>"
  Copy to Clipboard
 3. Inside script.js, add the following script:
 4. Save and refresh your browser, and you should see the same thing
