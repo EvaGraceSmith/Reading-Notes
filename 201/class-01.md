@@ -78,8 +78,8 @@ What exactly do I want to accomplish?
 
 [Semantics.](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
-## Why should you use an /<h1> element over a "<span>" element to display a top level heading?
- the "<h1>" element gives the text it wraps around the role of a top level heading on your page.
+## Why should you use an \<h1> element over a \<span> element to display a top level heading?
+ the \<h1> element gives the text it wraps around the role of a top level heading on your page.
 ## What are the benefits of using semantic tags in our HTML?
 It gives the piece of code meaning.
 
