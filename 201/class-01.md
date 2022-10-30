@@ -4,11 +4,11 @@ Skim [How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_
 Skim [Website Design and Process.](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)
 Read the following sections of [JavaScript Basics: Start at “What is JavaScript?”](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics), read through “Comments” section.
 
-##Compose a short poem describing how HTTP sends data between computers. 
-        Client request
-        this is the best
-        Server responds
-        this is the bomb
+## Compose a short poem describing how HTTP sends data between computers. 
+        * Client request
+        * this is the best
+        * Server responds
+        * this is the bomb
 
 ## Describe how HTML, CSS, and JS files are “parsed” in the browser.
 They are parsed in this order:
