@@ -1,4 +1,4 @@
-#Building a website
+# Building a website
 
 1. Planning- What will it do?
 2. Sketch out your design
