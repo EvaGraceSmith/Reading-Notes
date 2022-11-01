@@ -1,17 +1,21 @@
 Reading
 
-HTML
+## HTML
 
-1.) Why is it important to use semantic elements in our HTML?
-It makes your code easier to understand
-2.)How many levels of headings are there in HTML?
+1. Why is it important to use semantic elements in our HTML?
+  It makes your code easier to understand
+
+2. How many levels of headings are there in HTML?
 6
-3.) What are some uses for the <sup> and <sub> elements?
-sub is short for subscript, useful for chemical element. Sup is short for superscript and is useful in math equations
+
+3. What are some uses for the <sup> and <sub> elements?
+Sub is short for subscript, useful for chemical element. Sup is short for superscript and is useful in math equations
+
 4. When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
 title
 
-Learn CSS
+## Learn CSS
+
 1. How CSS Is Structured.
 "The basic structure of CSS includes basic syntax of selecting the HTML element using CSS Selectors and styling the selected element using CSS properties." -Linux Hint
 
@@ -22,19 +26,20 @@ Learn CSS
 "One of the main reasons that inline styling is not a good choice for your application is because it does not support (or it has really poor support) for CSS features.-"
 Why you shouldn't use inline styling in production React appshttps://blog.logrocket.com 
 
-### Review the block of code below and answer the following questions:
-* What is representing the selector? 
+## Review the block of code below and answer the following questions:
+
+1. What is representing the selector? 
 h2
-* Which components are the CSS declarations?
+2. Which components are the CSS declarations?
 black, 5px
-* Which components are considered properties?
+3. Which components are considered properties?
 color, padding
    h2 {
      color: black;
      padding: 5px;
    }
 
-### Learn JS
+## Learn JS
 
 
 1. What data type is a sequence of text enclosed in single quote marks?
@@ -51,7 +56,7 @@ Type Operators.
 3. Describe a real world Problem you could solve with a Function.
 Math Equations
 
-### Making Decisions In Your Code – Conditionals.
+## Making Decisions In Your Code – Conditionals.
 
 1. An if statement checks a __ and if it evaluates to ___, then the code block will execute.
 boolean, true
@@ -63,6 +68,6 @@ Equal ( == ) Not equal ( != ) Strict equal ( === )
 The && and || Operators in JavaScript. If applied to boolean values, the && operator only returns true when both of its operands are true (and false in all other cases), while the || operator only returns false when both of its operands are false (and true in all other cases).- Marius Schulz
 Front End Engineer
 
-Bookmark and Review
+## Bookmark and Review
 https://chris.beams.io/posts/git-commit/
 Review: keep messages short and pithy. no tl:dr
