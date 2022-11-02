@@ -44,10 +44,26 @@ List and describe the four parts of an HTML elements box as referred to by the b
 ### Learn JS- Arrays. Operators and Expressions. Conditionals. Loops
 
 What data types can you store inside of an Array?
-Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
+
+* primitives=(boolean, number, string, null, undefined) and object (6 total)
+
+Is the people array a valid JavaScript array? *yes*
+
+If so, how can I access the values stored? If not, why?
+
+* console.log(people);
 
  const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
+
 List five shorthand operators for assignment in javascript and describe what they do.
+
+* The addition assignment operator (+=) adds the value of the right operand to a variable and assigns the result to the variable. 
+* The subtraction assignment operator (-=) subtracts the value of the right operand from a variable and assigns the result to the variable.
+* The multiplication assignment operator (*=) multiplies a variable by the value of the right operand and assigns the result to the variable.
+* The division assignment operator (/=) divides a variable by the value of the right operand and assigns the result to the variable.
+* The remainder assignment operator (%=) divides a variable by the value of the right operand and assigns the remainder to the variable.
+
+
 Read the code below and evaluate the last expression and explain what the result would be and why.
 
  let a = 10;
@@ -56,5 +72,8 @@ Read the code below and evaluate the last expression and explain what the result
 
  // evaluate this
  (a + c) + b;
+
 Describe a real world example of when a conditional statement should be used in a JavaScript program.
+
+
 Give an example of when a Loop is useful in JavaScript.
