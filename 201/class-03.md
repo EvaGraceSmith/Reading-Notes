@@ -72,6 +72,8 @@ Read the code below and evaluate the last expression and explain what the result
 
  // evaluate this
  (a + c) + b;
+ (10 + false) + dog
+ 
 
 Describe a real world example of when a conditional statement should be used in a JavaScript program.
 A Shopping Cart
