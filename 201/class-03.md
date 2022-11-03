@@ -74,6 +74,7 @@ Read the code below and evaluate the last expression and explain what the result
  (a + c) + b;
 
 Describe a real world example of when a conditional statement should be used in a JavaScript program.
-
+A Shopping Cart
 
 Give an example of when a Loop is useful in JavaScript.
+Adding up a total in a Shopping Cart
