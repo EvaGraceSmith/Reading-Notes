@@ -1,5 +1,5 @@
 
-# Learn HTML -Creating Hyperlinks
+## Learn HTML -Creating Hyperlinks
 
 * To create a basic link, we wrap text or other content inside what element?
 <a>
@@ -35,8 +35,7 @@ What is a key difference between fixed positioning and absolute positioning?
 * https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning#fixed_positioning
 
 
-Learn JS
-Functions – Reusable Blocks of Code
+## Learn JS- Functions – Reusable Blocks of Code
 
 Describe the difference between a function declaration and a function invocation.
 * the function name,  can be omitted in function expressions to create anonymous functions. 
@@ -45,7 +44,7 @@ What is the difference between a parameter and an argument?
  * The values that are declared within a function when the function is called are known as an argument. Whereas, the variables that are defined when the function is declared are known as a parameter.
 
 
-Miscellaneous
+## Miscellaneous
 
 6 Reasons for Pair 
 1. Greater efficiency
