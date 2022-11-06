@@ -16,7 +16,7 @@ http://www.nysed.gov/webaccess/create-accessible-hypertext-links
 
 ## CSS Layout: Normal Flow CSS Layout: Positioning
 
-What is meant by “normal flow”?
+### What is meant by “normal flow”?
  * The default layout for CSS elements
 What are a few differences between block-level and inline elements?
 * Block level elements span the width of their parent element.
@@ -26,10 +26,10 @@ https://thoughtbot.com/blog/positioning
 ___ positioning is the default for every html element.
 * Static
 
-Name a few advantages to using absolute positioning on an element.
+### Name a few advantages to using absolute positioning on an element.
 * An absolutely positioned element no longer exists in the normal document flow. Instead, it sits on its own layer separate from everything else. This is very useful: it means that we can create isolated UI features that don't interfere with the layout of other elements on the page. For example, popup information boxes, control menus, rollover panels, UI features that can be dragged and dropped anywhere on the page, and so on.
 
-What is a key difference between fixed positioning and absolute positioning?
+### What is a key difference between fixed positioning and absolute positioning?
 
 * whereas absolute positioning fixes an element in place relative to its nearest positioned ancestor (the initial containing block if there isn't one), fixed positioning usually fixes an element in place relative to the visible portion of the viewport.
 * https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning#fixed_positioning
