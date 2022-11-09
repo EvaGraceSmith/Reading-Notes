@@ -2,15 +2,15 @@
 
 **How would you describe an object to a non-technical friend you grew up with?**
 "In JavaScript, an object is a standalone entity, with properties and type. Compare it with a cup, for example. A cup is an object, with properties. A cup has a color, a design, weight, a material it is made of, etc. The same way, JavaScript objects can have properties, which define their characteristics."
-[](-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects#:~:text=In%20JavaScript%2C%20an%20object%20is,properties%2C%20which%20define%20their%20characteristics.)
+[Objects in JavaScript](-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects#:~:text=In%20JavaScript%2C%20an%20object%20is,properties%2C%20which%20define%20their%20characteristics.)
 
 **What are some advantages to creating object literals?**
 "The advantages of using object literals to create objects include convenience, flexibility in declaration, and less code during declaration. You can drop an object literal anywhere in your program with no previous setup and it'll work, which can be very handy!"
-[](https://codeburst.io/object-oriented-programming-in-javascript-51b2bdfdfe9f#:~:text=The%20advantages%20of%20using%20object,which%20can%20be%20very%20handy!)
+[Object Literals](https://codeburst.io/object-oriented-programming-in-javascript-51b2bdfdfe9f#:~:text=The%20advantages%20of%20using%20object,which%20can%20be%20very%20handy!)
 
 **How do objects differ from arrays?**
 "Objects represent “things” with characteristics (aka properties), while arrays create and store lists of data in a single variable."
-[](https://medium.com/@zac_heisey/objects-vs-arrays-42601ff79421#:~:text=Objects%20represent%20%E2%80%9Cthings%E2%80%9D%20with%20characteristics,data%20in%20a%20single%20variable.)
+[Object vs Arrays](https://medium.com/@zac_heisey/objects-vs-arrays-42601ff79421#:~:text=Objects%20represent%20%E2%80%9Cthings%E2%80%9D%20with%20characteristics,data%20in%20a%20single%20variable.)
 
 **Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.**
 
@@ -66,7 +66,7 @@ Great Job interview article. Making sure you have mastered the code language, an
 
 **What’s the Difference Between Primitive Values and Object References in JavaScript?**
 
-[](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
+[Primitive Values vs Object References](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
 
 "JavaScript currently supports eight different data types. This includes seven primitive value types and objects. Here’s the full list.
 
