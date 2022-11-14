@@ -15,12 +15,16 @@ You should be cautious when using any properties that reorder the visual display
 [flexbox](https://web.dev/learn/css/flexbox/)
 
 
-CSS Layout - Flexbox
+[CSS Layout - Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 
-Read up to “Flex-Flow Shorthand”
+
 
 ### What are some advantages of using flexbox over float?
+Flexbox is responsive and mobile-friendly. Flex container's margins do not collapse with the margins of its content. We can easily change the order of elements on our webpage without even making changes in HTML.
 
 ### How does this topic connect with your long term goals?
+Creating sharp well built web pages is absolutely a goal of mine, using flex box helps me meet those goals, and do so more efficiently.
+
 Bookmark and Review
-Learn CSS - Layout
+[Learn CSS - Layout](https://web.dev/learn/css/layout/)
+Gives a good overview of when to use flex vs grid. 
