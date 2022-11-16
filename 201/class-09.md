@@ -32,22 +32,22 @@ From a user experience (UX) point of view, it's important to remember that the b
 #### List 5 form elements and explain their importance.
 
 ##### The input Element
-One of the most used form element is the '<input>' element.
-The '<input>' element can be displayed in several ways, depending on the type attribute.
+One of the most used form element is the input element.
+The input element can be displayed in several ways, depending on the type attribute.
 
 ##### The label Element
-The '<label>' element defines a label for several form elements.
+The label element defines a label for several form elements.
 
-The '<label>' element is useful for screen-reader users, because the screen-reader will read out loud the label when the user focus on the input element.
+The label element is useful for screen-reader users, because the screen-reader will read out loud the label when the user focus on the input element.
 
 ##### The select Element
-The '<select>' element defines a drop-down list
+The elect element defines a drop-down list
 
 ##### The option Element
-The '<option>' elements defines an option that can be selected.
+The option elements defines an option that can be selected.
 
 ##### The textarea Element
-The '<textarea>' element defines a multi-line input field (a text area):
+The textarea element defines a multi-line input field (a text area):
 
 [Form Elements](https://www.w3schools.com/html/html_form_elements.asp)
 
