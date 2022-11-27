@@ -1,4 +1,4 @@
-##Readings: Chart.js, Canvas
+## Readings: Chart.js, Canvas
 
 
 [JavaScript Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas/)
