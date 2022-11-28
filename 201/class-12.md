@@ -48,14 +48,14 @@ Charts are far better for displaying data visually than tables and have the adde
 
 [Drawing Shapes With Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
 
-"By the end of this article, you will have learned how to draw rectangles, triangles, lines, arcs and curves, providing familiarity with some of the basic shapes. Working with paths is essential when drawing objects onto the canvas and we will see how that can be done."
+* "By the end of this article, you will have learned how to draw rectangles, triangles, lines, arcs and curves, providing familiarity with some of the basic shapes. Working with paths is essential when drawing objects onto the canvas and we will see how that can be done."
 fillRect(x, y, width, height)
 Draws a filled rectangle.
 
-strokeRect(x, y, width, height)
+* strokeRect(x, y, width, height)
 Draws a rectangular outline.
 
-clearRect(x, y, width, height)
+* clearRect(x, y, width, height)
 Clears the specified rectangular area, making it fully transparent.
 
 
@@ -64,4 +64,4 @@ Clears the specified rectangular area, making it fully transparent.
 
 
 [Drawing Text - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
-Drawing text is possible, this page shows you some of the commands
+* Drawing text is possible, this page shows you some of the commands
