@@ -1,11 +1,14 @@
 
-## React Docs - lists and keys
+## [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
 
 * What does .map() return?
+    A new Array
 * If I want to loop through an array and display each value in JSX, how do I do that in React?
-* Each list item needs a unique ____.
-* What is the purpose of a key?
 
+* Each list item needs a unique ____.
+    Key
+* What is the purpose of a key?
+    "Keys help React identify which items have changed, are added, or are removed."
 
 ## The Spread Operator
 
