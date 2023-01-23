@@ -21,7 +21,7 @@ This page includes my notes for each class. Feel free to follow along!
 - [Class 09](102/class-09.md)
 - [Class 10](102/class-10.md)
 
-### Reading Notes from Class 102 ###
+### Reading Notes from Class 201 ###
 - [Class 01](201/class-01.md)
 - [Class 02](201//class-02.md)
 - [Class 03](201/class-03.md)
