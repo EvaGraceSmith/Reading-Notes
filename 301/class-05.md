@@ -19,7 +19,7 @@ Reading
 * Building a static version requires a lot of typing and not thinking. (Whereas adding interactivity requires a lot of thinking and not a lot of typing.)
 
 ### Once you have a static application, what do you need to add?
-* interactivity
+* interactivity via state
 
 ### What are the three questions you can ask to determine if something is state?
 * Is it passed in from a parent via props? If so, it probably isn’t state.
