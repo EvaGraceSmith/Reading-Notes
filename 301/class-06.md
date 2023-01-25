@@ -61,3 +61,24 @@ to create a sensible development environment in which any modern JavaScript fram
 
 #### Things I want to know more about:
 I definitely want to study more on Node, Node.js, npm and how to best utilize these to make amazing web pages. 
+
+[Promise in JavaScript](https://www.w3schools.com/js/js_promise.asp)
+
+#### What is a JavaScript Promise?
+""I Promise a Result!"
+
+"Producing code" is code that can take some time
+
+"Consuming code" is code that must wait for the result
+
+A Promise is a JavaScript object that links producing code and consuming code"
+
+[Using promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
+
+"A Promise is an object representing the eventual completion or failure of an asynchronous operation.
+
+Essentially, a promise is a returned object to which you attach callbacks, instead of passing callbacks into a function.
+
+
+"Important: Always return results, otherwise callbacks won't catch the result of a previous promise (with arrow functions, () => x is short for () => { return x; }). If the previous handler started a promise but did not return it, there's no way to track its settlement anymore, and the promise is said to be "floating".
+
