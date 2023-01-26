@@ -7,7 +7,7 @@ I need the api keys to complete my next assignment!
 
 ### If you took Code 201, skim this article again for a refresher. If you did not take Code 201, read this article and think about how it can influence the way you work with your partners during pair programming.
 
-* Psychological safety: Everyone feels safe in taking risks around their team members, and that they won’t be embarrassed or punished for doing so.
+* "Psychological safety: Everyone feels safe in taking risks around their team members, and that they won’t be embarrassed or punished for doing so.
 
 * Dependability: Everyone completes quality work on time.
 
@@ -15,7 +15,13 @@ I need the api keys to complete my next assignment!
 
 * Meaning: Everyone has a sense of purpose in their work (i.e., financial security, supporting family, helping the team succeed, etc.).
 
-* Impact: Everyone sees that the result of their work actually contributes to the organization’s overall goals.
+* Impact: Everyone sees that the result of their work actually contributes to the organization’s overall goals."
+
+* I can see how applying these principles can lead to healthy team dynamics. Knowing that you are going to be treated with respect helps open the door to positive interact and the ability to take risks, to learn and grow. 
+* Having clear expectations across the board gives everyone clarity on what they need to do, and to trust what others will be doing. 
+* Dependability. You can be as nice as you please, but if you don't put forth work that is quality, or on time, others will have to pick up your slack, which puts unnecessary pressure on the team.
+* Meaning- If you don't have a strong why for doing what you are doing, your motivation will be lacking, and the temptation to slack is that much greater. 
+* Impact- Positive reinforcement and being a meaningful part of a team can help inspire and motive you. 
 
 ### [How I explained REST to my brother](https://gist.github.com/brookr/5977550)
 
