@@ -64,7 +64,7 @@ Did you get your API key?
 yes
 
 
-Yelp API Docs
+[Yelp API Docs](https://docs.developer.yelp.com/docs/fusion-authentication)
 
 Did you get your API key?
 yes
