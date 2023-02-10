@@ -4,8 +4,10 @@
 
 Fill in the chart below with five differences between SQL and NoSQL databases:
 
+
+
        | SQL               |      	NoSQL |
-       ------------------------------------------------------------
+       |-----------------------------|-------------------------------|
 | Relational Databases     |    Non-relational, or distributed|
 
  |table based               |  document based, key-value pairs|
