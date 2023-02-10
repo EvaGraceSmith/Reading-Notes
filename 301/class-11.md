@@ -4,50 +4,33 @@
 
 Fill in the chart below with five differences between SQL and NoSQL databases:
 
-        SQL                     	NoSQL
- Relational Databases     |    Non-relational, or distributed
-------------------------------------------------------------
- table based               |  document based, key-value pairs
--------------------------------------------------------------
- represent data in         |        do not have standard 
- form of tables	           |         schema definitions
- ------------------------------------------------------------
- predefined schema         |    dynamic schema, unstructured data
- ------------------------------------------------------------
- vertically scalable       |    horizontally scalable
- ------------------------------------------------------------
- SQL                       |           UnSQL
-(Structured query language)   (Unstructured Query Language)
-------------------------------------------------------------
-* For complex queries:
- Good fit for complex      |        Not a good fit
- Querys of large data      |      for complex querys
- ------------------------------------------------------------
- * For the type of data to be stored:
- Not best fit for          |      better fit due to
- hierarchical data storage |     key value pair storage
- ------------------------------------------------------------
-                             |  preferred for large data
-------------------------------------------------------------
-* For scalability: 
-vertically scalable         |   horizontally scalable
-------------------------------------------------------------
-* For high transactional based application: 
-best fit for heavy          |
-duty transactional          |    
-------------------------------------------------------------
-* For support:
-Excellent support available |    community support
-------------------------------------------------------------
-* For properties:
-ACID properties             |          CAP theorem    
-Atomicity, Consistency,     |    Consistency, Availability
-Isolation Durability)       |     and Partition tolerance 
-------------------------------------------------------------
-* For DB types:
-either open-source or       |      graph, key-value
-close-sourced               |  document, column  and XML .
-------------------------------------------------------------
+       | SQL               |      	NoSQL |
+       ------------------------------------------------------------
+| Relational Databases     |    Non-relational, or distributed|
+
+ |table based               |  document based, key-value pairs|
+
+ | represent data in form of tables	      |        do not have standard schema definitions|
+ | predefined schema         |    dynamic schema, unstructured data|
+ |vertically scalable       |    horizontally scalable|
+ |SQL                       |           UnSQL|
+|(Structured query language) |  (Unstructured Query Language)|
+| **For complex queries:**|
+ |Good fit for complex Querys of large data       |        Not a good fit for complex querys| 
+ |**For the type of data to be stored:**|
+ |Not best fit for hierarchical data storage        |      better fit due to key value pair storage|  
+ |                            |  preferred for large data|
+|**For scalability:** |
+|vertically scalable         |   horizontally scalable|
+|**For high transactional based application:** |
+| best fit for heavy duty transactional         | |  
+|**For support:**|
+|Excellent support available |    community support|
+|**For properties:**|
+|ACID properties             |          CAP theorem  |  
+|Atomicity, Consistency, Isolation Durability)     |    Consistency, Availability and Partition tolerance|
+|**For DB types:**|
+|either open-source or close-sourced       |      graph, key-value  document, column  and XML .|
 
  	 
 #### What kind of data is a good fit for an SQL database?
