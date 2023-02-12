@@ -34,12 +34,12 @@ Fill in the chart below with five differences between SQL and NoSQL databases:
 
  	 
 #### What kind of data is a good fit for an SQL database?
-Give a real world example.
+
 Credit Card transactions at a store. They need security and support and need to be able to handle high traffic
-Give a real world example.
+
 
 #### What kind of data is a good fit a NoSQL database?
-Give a real world example.
+
 Start up business. Needs flexibility and room for growth. 
 
 
@@ -62,24 +62,22 @@ works with certain assumptions or in a
 certain way"
 
 #### What type of structure does a relational database work with?
-Tables, 
+Tables 
 #### What is a ‘schema’?
-"a representation of a plan or theory in the form of an outline or model."
+"A representation of a plan or theory in the form of an outline or model."
 
 #### What is a NoSQL database?
-"aka "not only SQL") are non-tabular databases and store data differently than relational tables"
+"aka not only SQL" are non-tabular databases and store data differently than relational tables"
 
 #### How does it work?
 "NoSQL databases come in a variety of types based on their data model. The main types are document, key-value, wide-column, and graph. They provide flexible schemas and scale easily with large amounts of data and high user loads."-MongoDB
 
-
-
 #### What is inside of a MongoDB database?
-MongoDB derived from the work humongous is built to store lots and lots of data in a very efficient way. 
+MongoDB derived from the word humongous is built to store lots and lots of data in a very efficient way. 
 It has collections that you could translate with tables essentially and it looks a bit like JSON.
 
 #### Which is more flexible - SQL or MongoDB? and why.
-Mongo- it can use a variety of Schema to store data
+Mongo- it can use a variety of schema to store data
 "Non-relational databases are most suited to handling large volumes of data and/or unstructured data. They’re extremely popular in the world of big data because writes are fast. NoSQL databases don’t enforce complicated cross-table schemas, so writes are unlikely to be a bottleneck in a system using NoSQL."
 
 #### What is the disadvantage of a NoSQL database?
