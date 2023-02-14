@@ -48,7 +48,7 @@ So we can deploy  from something other than localhost by pulling from our .env
 
 #### What does the /:id mean in a route?
 
-get a single user by ID.
+it is a parameter we can access request.params.id It gives us access to whatever they pass in after the first slash
 
 
 #### What is the difference between PUT and PATCH?
@@ -67,7 +67,6 @@ the server encountered an unexpected condition that prevented it from fulfilling
 
 200: “Everything is OK.” This is the code that is delivered when a web page or resource acts exactly the way it's expected to. 201: “Created.” The server has fulfilled the browser's request, and as a result, has created a new resource
 
-#### How does this subject matter as it relates to what I am studying?
+ #### Things I want to know more about:
 
-
-#### Things I want to know more about:
+ What rest is, and what are restful endpoints. 
