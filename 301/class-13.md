@@ -30,13 +30,28 @@ Videos
 
 #### What’s the relationship between REST and CRUD?
 
-C -> Create -> Post
-R -> Read  -> Get
-U -> Update -> Put
-D -> Delete -> Delete
+* C -> Create -> Post
+* R -> Read  -> Get
+* U -> Update -> Put
+* D -> Delete -> Delete
 
 
 If you had to describe the process of creating a RESTful API in 5 steps, what would they be?
+
+[5 Steps for designing your REST API](https://www.wutsi.com/read/246/5-steps-for-designing-your-rest-apis)
+
+##### 1. Identify your Object Model
+In the REST world, they are called Resources. A Resource is an typed object with data. 
+##### 2. Identify the URIs
+A URI is a unique address assigned to resources, it's a way to identify Resources on the Internet.  
+##### 3. Define the Representations
+Next step is to define the content and the format of your resources. The most common formats are JSON, XML or Protobuf. For each resource in your Object Model, you must define a representation for a collection and single resource.
+##### 4. Assign HTTP Methods
+The next step is to define how to access your resources via HTTP. For that, you need to use the standard HTTP methods:
+
+* GET to retrieve Resources
+* POST to create or update a Resource
+* DELETE to delete a Resource
 
 Read All: (Get all...)
  router.get('/', (req, res, next)=>{
@@ -63,6 +78,9 @@ router.delete('/:id', (req, res, next)=>{
 
 });
 
+##### 5. What about Errors
+
+For REST API, you should use HTTP status codes to report the status of each interaction with your API.  
 
 #### How does this subject matter as it relates to what I am studying?
 We are currently building full stack projects incorporating CRUD. 
