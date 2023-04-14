@@ -6,3 +6,5 @@ ___
 1.) Choose the language of your upcoming 401.
 2.) Complete at least 50% of the lessons. *But we recommend that you keep on going!*
 3.) Take a screenshot of each lesson summary that you complete.
+
+[Lesson 1](401/img/typing-lesson-01.png)
