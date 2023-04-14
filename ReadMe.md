@@ -39,6 +39,7 @@ This page includes my notes for each class. Feel free to follow along!
 - [Class 15](201/class-15.md)
 
 ### Reading Notes from Class 301 ###
+- [prework](301/prework.md)
 - [Class 01](301/class-01.md)
 - [Class 02](301/class-02.md)
 - [Class 03](301/class-03.md)
@@ -55,7 +56,27 @@ This page includes my notes for each class. Feel free to follow along!
 - [Class 14](301/class-14.md)
 - [Class 15](301/class-15.md)
 - [Class 16](301/class-16.md)
-- [prework](301/prework.md)
 
 
+
+### Reading Notes from Class 401 ###
+- [prework](401/prework.md)
+- [Class 01](401/class-01.md)
+- [Class 02](401/class-02.md)
+- [Class 03](401/class-03.md)
+- [Class 04](401/class-04.md)
+- [Class 05](401/class-05.md)
+- [Class 06](401/class-06.md)
+- [Class 07](401/class-07.md)
+- [Class 08](401/class-08.md)
+- [Class 09](401/class-09.md)
+- [Class 10](401/class-10.md)
+- [Class 11](401/class-11.md)
+- [Class 12](401/class-12.md)
+- [Class 13](401/class-13.md)
+- [Class 14](401/class-14.md)
+- [Class 15](401/class-15.md)
+- [Class 16](401/class-16.md)
+- [Class 17](401/class-17.md)
+- [Class 18](401/class-18.md)
 
