@@ -1,15 +1,16 @@
-## 401 Pre-Work Checklist
+## [CodeFellows 401 Prework Checklist](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/)
 
 ### Computer and Systems Set Up
 ___
-- [x] Basic Computer Setup
-- [x] 301 Computer Setup
-- [x] Setup Your Accounts
-- [x] Create a Reading Notes Repo
+- [x] [Basic Computer Setup](https://codefellows.github.io/setup-guide/)
+- [x] [301 Computer Setup](https://codefellows.github.io/setup-guide/code-301/)
+- [x] [Setup Your Accounts](https://codefellows.github.io/common_curriculum/prework/setup-your-accounts)
+- [x] [Create a Reading Notes Repo](https://codefellows.github.io/common_curriculum/prework/setup-readings)
+
 
 ### Practice Assignments
 ___
-- [ ] Introduction to SQL
+- [ ] [Introduction to SQL](https://codefellows.github.io/common_curriculum/prework/SQL)
 - [ ] Git Practice
 - [ ] Bash Practice
 - [ ] Typing Practice
