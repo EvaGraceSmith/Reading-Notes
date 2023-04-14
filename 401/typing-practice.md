@@ -10,3 +10,5 @@ ___
 3.) Take a screenshot of each lesson summary that you complete.
 
 * Lesson 1 ![Lesson 1](img/typing-lesson-01.png)
+* Lesson 2 ![Lesson 2](img/typing-lesson-02.png)
+* Lesson 3 ![Lesson 3](img/typing-lesson-03.png)
