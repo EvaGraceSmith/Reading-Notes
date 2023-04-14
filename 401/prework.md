@@ -12,7 +12,7 @@ ___
 ___
 - [ ] [Introduction to SQL](https://codefellows.github.io/common_curriculum/prework/SQL)
 - [ ] [Git Practice](https://learngitbranching.js.org/)
-- [ ] Bash Practice
+- [ ] [Bash Practice](https://codefellows.github.io/common_curriculum/prework/terminal)
 - [ ] Typing Practice
 
 ### Career Coaching Pre-Work
