@@ -11,7 +11,7 @@ ___
 ### Practice Assignments
 ___
 - [ ] [Introduction to SQL](https://codefellows.github.io/common_curriculum/prework/SQL)
-- [ ] Git Practice
+- [ ] [Git Practice](https://learngitbranching.js.org/)
 - [ ] Bash Practice
 - [ ] Typing Practice
 
