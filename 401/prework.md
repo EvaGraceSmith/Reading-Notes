@@ -10,10 +10,10 @@ ___
 
 ### Practice Assignments
 ___
-- [ ] [Introduction to SQL](https://codefellows.github.io/common_curriculum/prework/SQL)
-- [ ] [Git Practice](https://learngitbranching.js.org/)
-- [ ] [Bash Practice](https://codefellows.github.io/common_curriculum/prework/terminal)
-- [ ] Typing Practice
+- [ ] [SQL Practice](401/SQL-practice.md)
+- [ ] [GIT Practice](401/gitpractice.md)
+- [ ] [Bash Practice](401/bash-practice.md)
+- [ ] [Typing Practice](401/typing-practice.md)
 
 ### Career Coaching Pre-Work
 --- 

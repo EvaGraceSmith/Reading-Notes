@@ -1,3 +1,7 @@
+## [SQL Practice](https://codefellows.github.io/common_curriculum/prework/SQL)
+___
+
+
 ### [Download Free Book](https://cdn2.hubspot.net/hubfs/392937/Learn%20SQL.pdf)
 ___
 * Skim the book.
