@@ -20,7 +20,7 @@ ___
 - [ ] [Mindset](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/mindset)
 -- [x] Read [Upgrade Your Technical Skills with Deliberate Practice.](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice) (10 minutes)
 -- [x] Watch [Carol Dweck on the Growth Mindset.](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en) (10 minutes)
--- [] Watch [Angela Lee Duckworth on Grit.](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/comments) (6 minutes)
+-- [x] Watch [Angela Lee Duckworth on Grit.](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/comments) (6 minutes)
 -- [ ] Watch [Alain de Botton on Redefining Success](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success). (17 minutes)
 -- [ ] Assess your [emotional intelligence](https://codefellows.github.io/common_curriculum/career_coaching/201/emotional-intelligence-assessment.pdf). If you have done it in the past, now you can identify the areas you have grown in recently.
 -- [ ] Assess your [biases](https://codefellows.github.io/common_curriculum/career_coaching/301/bias-assessment.pdf). If you have done it in the past, now you can identify the areas you have grown in recently.
@@ -32,11 +32,11 @@ ___
 ### Readings and Videos
 ___
 - [ ] [Engineering Readings](https://codefellows.github.io/common_curriculum/prework/engineering-readings)
--- [ ] Act like you make $1000/hr
--- [ ] How to think like a programmer
--- [ ] Solving Problems
--- [ ] The 5 Whys
--- [ ] The Super Mario Effect
+-- [ ] [Act like you make $1000/hr](https://anthony-moore.medium.com/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-6ab2302b8e8c)
+-- [ ] [How to think like a programmer](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
+-- [ ] [Solving Problems](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
+-- [ ] [The 5 Whys](https://www.mindtools.com/a3mi00v/5-whys)
+-- [ ] [The Super Mario Effect](https://www.youtube.com/watch?v=9vJRopau0g0)
 
 ### Get Ready for Javascript
 ___
