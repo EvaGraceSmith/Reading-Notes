@@ -21,7 +21,7 @@ ___
 -- [x] Read [Upgrade Your Technical Skills with Deliberate Practice.](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice) (10 minutes)
 -- [x] Watch [Carol Dweck on the Growth Mindset.](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en) (10 minutes)
 -- [x] Watch [Angela Lee Duckworth on Grit.](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/comments) (6 minutes)
--- [ ] Watch [Alain de Botton on Redefining Success](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success). (17 minutes)
+-- [x ] Watch [Alain de Botton on Redefining Success](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success). (17 minutes)
 -- [ ] Assess your [emotional intelligence](https://codefellows.github.io/common_curriculum/career_coaching/201/emotional-intelligence-assessment.pdf). If you have done it in the past, now you can identify the areas you have grown in recently.
 -- [ ] Assess your [biases](https://codefellows.github.io/common_curriculum/career_coaching/301/bias-assessment.pdf). If you have done it in the past, now you can identify the areas you have grown in recently.
     -[ ]
