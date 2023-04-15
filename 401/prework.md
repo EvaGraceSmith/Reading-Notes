@@ -17,21 +17,26 @@ ___
 
 ### Career Coaching Pre-Work
 --- 
-- [ ] Mindset
+- [ ] [Mindset](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/mindset)
 -- [x] Read [Upgrade Your Technical Skills with Deliberate Practice.](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice) (10 minutes)
--- [ ] Watch Carol Dweck on the Growth Mindset. (10 minutes)
--- [ ] Watch Angela Lee Duckworth on Grit. (6 minutes)
--- [ ] Watch Alain de Botton on Redefining Success. (17 minutes)
--- [ ] Assess your emotional intelligence. If you have done it in the past, now you can identify the areas you have grown in recently.
--- [ ] Assess your biases. If you have done it in the past, now you can identify the areas you have grown in recently.
+-- [x] Watch [Carol Dweck on the Growth Mindset.](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en) (10 minutes)
+-- [] Watch [Angela Lee Duckworth on Grit.](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/comments) (6 minutes)
+-- [ ] Watch [Alain de Botton on Redefining Success](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success). (17 minutes)
+-- [ ] Assess your [emotional intelligence](https://codefellows.github.io/common_curriculum/career_coaching/201/emotional-intelligence-assessment.pdf). If you have done it in the past, now you can identify the areas you have grown in recently.
+-- [ ] Assess your [biases](https://codefellows.github.io/common_curriculum/career_coaching/301/bias-assessment.pdf). If you have done it in the past, now you can identify the areas you have grown in recently.
     -[ ]
-- [ ] Professional Etiquette
-- [ ] Career Coaching Status Report
-- [ ] Update Your Resume
+- [ ] [Professional Etiquette](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/professional-etiquette)
+- [ ] [Career Coaching Status Report](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/status-report)
+- [ ] [Update Your Resume](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/update-your-resume)
 
 ### Readings and Videos
 ___
-- [ ] [[Engineering Readings]]
+- [ ] [Engineering Readings](https://codefellows.github.io/common_curriculum/prework/engineering-readings)
+-- [ ] Act like you make $1000/hr
+-- [ ] How to think like a programmer
+-- [ ] Solving Problems
+-- [ ] The 5 Whys
+-- [ ] The Super Mario Effect
 
 ### Get Ready for Javascript
 ___
