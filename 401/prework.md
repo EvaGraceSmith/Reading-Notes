@@ -40,10 +40,10 @@ ___
 
 ### Get Ready for Javascript
 ___
-- [x]  Install developer  tools and utilities
+- [x]  [Install developer  tools and utilities](https://codefellows.github.io/setup-guide/code-401-javascript/)
 - [x] Complete all of the Code 301 Code Challenges
-- [ ] Callbacks
-- [ ] Promises
-- [ ] Async/Await
-- [x] ES6 Classes
-- [x] Watch: what the heck is the event loop anyway
+- [ ] [Callbacks](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/callbacks/)
+- [ ] [Promises](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/promises/)
+- [ ] [Async/Await](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/async-await/)
+- [x] [ES6 Classes](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/classes/)
+- [x] Watch: [what the heck is the event loop anyway](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
