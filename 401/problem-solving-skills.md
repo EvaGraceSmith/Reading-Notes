@@ -42,3 +42,6 @@ What should you do when you encounter a new problem?
     The difference is the best programmers/problem-solvers are more curious about bugs/errors than irritated.
 5. Practice
     Find an outlet to practice. Something that allows you to solve many micro-problems (ideally, something you enjoy).
+
+[The five why's](https://www.mindtools.com/a3mi00v/5-whys)
+
