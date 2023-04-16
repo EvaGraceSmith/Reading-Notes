@@ -15,4 +15,6 @@ ___
 * Lesson 4 ![Lesson 4](img/typing-lesson-04.png)
 * Lesson 5 ![Lesson 5](img/typing-lesson-05.png)
 * Lesson 6 ![Lesson 6](img/typing-lesson-06.png)
+* Lesson 7 ![Lesson 7](img/typing-lesson-07.png)
+
 
