@@ -1,5 +1,9 @@
 Developing Interview Problem-solving skills.
 
+*"Pretend your time is worth $1,000/hr. Would you spend five of them doing extra work for free? Would you waste one on being angry?” -Niklas Göke*
+
+
+
 [Solving Problems](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
 ___
 

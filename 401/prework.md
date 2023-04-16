@@ -31,7 +31,7 @@ ___
 ### Readings and Videos
 ___
 - [ ] [Engineering Readings](https://codefellows.github.io/common_curriculum/prework/engineering-readings)
-    - [ ] [Act like you make $1000/hr](https://anthony-moore.medium.com/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-6ab2302b8e8c)
+    - [x] [Act like you make $1000/hr](https://anthony-moore.medium.com/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-6ab2302b8e8c)
     - [x] [How to think like a programmer](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
     - [x] [Solving Problems](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
     - [ ] [The 5 Whys](https://www.mindtools.com/a3mi00v/5-whys)
