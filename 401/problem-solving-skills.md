@@ -24,3 +24,17 @@ ___
 * Convert from string to int, int to string, etc
 
 
+[Think like a programmer](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
+
+
+What should you do when you encounter a new problem?
+1. Understand
+    This is why you should write down your problem, doodle a diagram, or tell someone else about it (or thing… some people use a rubber duck).
+2. Plan
+    Nothing can help you if you can’t write down the exact steps.
+3. Divide
+    Break it into sub-problems. These sub-problems are much easier to solve.
+4. Stuck?
+    The difference is the best programmers/problem-solvers are more curious about bugs/errors than irritated.
+5. Practice
+    Find an outlet to practice. Something that allows you to solve many micro-problems (ideally, something you enjoy).
