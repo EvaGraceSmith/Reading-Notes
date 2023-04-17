@@ -26,7 +26,17 @@ ___
 
 #### [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php) - An introduction to the Linux directory system and how to get around it.
 ___
-* Learnings and Observations
+**Learnings and Observations**
+
+* How to get around it
+Common Commands:
+* pwd = print working directory
+* ls = list
+* cd = change directories
+* ~ = home directory
+* . = current directory
+* .. = parent directory
+
 
 
 
