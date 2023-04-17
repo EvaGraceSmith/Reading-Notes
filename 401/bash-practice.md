@@ -62,13 +62,14 @@ ___
 * Searching: man -k <search term>
 
 
-
-
-
-
 #### [File Manipulation](https://ryanstutorials.net/linuxtutorial/filemanipulation.php) - How to make, remove, rename, copy and move files and directories.
 ___
-* Learnings and Observations
+* mkdir is short for Make Directory:  mkdir [options] <Directory>
+* rmdir, short for remove directory:  rmdir [options] <Directory>
+* touch- create blank files : touch [options] <filename>
+* copy a file: cp [options] <source> <destination>
+* Moving a File or Directory: mv [options] <source> <destination>
+* Removing a File (and non empty Directories): rm [options] <file>
 
 
 
