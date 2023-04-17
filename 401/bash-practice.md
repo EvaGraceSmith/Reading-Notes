@@ -28,8 +28,7 @@ ___
 ___
 **Learnings and Observations**
 
-* How to get around it
-Common Commands:
+* How to get around with common commands:
 * pwd = print working directory
 * ls = list
 * cd = change directories
@@ -77,8 +76,3 @@ ___
 ___
 * This is a great reference page to quickly see the terminal commands in one place. 
 
-
-
-When you are finished with all of the lessons, create a new entry in your reading notes repository summarizing your observations and learnings, highlighting things like your ‘ah hah’ moments or really interesting code snippets.
-
-*Please note: If you submit one-liners (i.e. “The permissions section talked about permissions. It was cool.”) you will not receive credit for this assignment.*
