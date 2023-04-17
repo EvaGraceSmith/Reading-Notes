@@ -6,7 +6,21 @@ For each of the following segments of [Bash Command Line Tutorials](https://ryan
 
 #### [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php) - What is it, how does it work and how do I get to one.
 ___
-* Learnings and Observations
+**Learnings and Observations**
+
+* What is it?
+
+"A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text."
+
+* How does it work?
+
+"The command line typically presents you with a prompt. As you type, it will be displayed after the prompt. Most of the time you will be issuing commands."
+
+* How do I get one?
+
+"If you're on a Mac then you'll find the program Terminal under Applications -> Utilities. An easy way to get to it is the key combination 'command + space' which will bring up Spotlight, then start typing Terminal and it will soon show up."
+
+
 
 
 
