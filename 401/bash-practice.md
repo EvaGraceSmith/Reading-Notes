@@ -58,6 +58,10 @@ ___
 #### [Manual Pages](https://ryanstutorials.net/linuxtutorial/manual.php) - Learn how to make the most of the Linux commands you are learning.
 ___
 
+* The manual pages are a set of pages that explain every command available on your system including what they do, the specifics of how you run them and what command line arguments they accept. 
+* Searching: man -k <search term>
+
+
 
 
 
