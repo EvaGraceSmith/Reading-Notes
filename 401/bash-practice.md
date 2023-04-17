@@ -75,7 +75,7 @@ ___
 
 #### [Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php) - A quick reference for the main points covered in this tutorial.
 ___
-* Highlight of Learnings and Observations
+* This is a great reference page to quickly see the terminal commands in one place. 
 
 
 
