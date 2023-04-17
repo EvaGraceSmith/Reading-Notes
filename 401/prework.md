@@ -12,7 +12,7 @@ ___
 ___
 - [ ] [SQL Practice](401/SQL-practice.md)
 - [ ] [GIT Practice](401/gitpractice.md)
-- [ ] [Bash Practice](401/bash-practice.md)
+- [x] [Bash Practice](401/bash-practice.md)
 - [ ] [Typing Practice](401/typing-practice.md)
 
 ### Career Coaching Pre-Work
