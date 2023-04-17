@@ -42,13 +42,22 @@ Common Commands:
 
 #### [More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php) - Find out some interesting characteristics of files and directories in a Linux environment.
 ___
-* Learnings and Observations
+
+* Everything is a File
+* Linux is an Extensionless System
+* Linux is Case Sensitive
+* How to deal with spaces in names:
+    Use quotes around the entire item
+    Use an escape character, which is a backslash ( \ )
+* Hidden Files and Directories:
+    To hide a file, use a . in front of it
+    ls -a will show all files, including hidden ones.
 
 
 
 #### [Manual Pages](https://ryanstutorials.net/linuxtutorial/manual.php) - Learn how to make the most of the Linux commands you are learning.
 ___
-* Learnings and Observations
+
 
 
 
