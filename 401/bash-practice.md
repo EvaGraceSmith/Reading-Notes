@@ -1,8 +1,7 @@
 ## [Bash Practice](https://codefellows.github.io/common_curriculum/prework/terminal)
 ___
 
-## Submitting Your Work
-For each of the following segments of [Bash Command Line Tutorials](https://ryanstutorials.net/linuxtutorial/) on ryanstutorials.net, completely read through and complete each of the activities in your own terminal. As you complete each segment’s activities, take a moment to document your learnings and observations.
+[Bash Command Line Tutorials](https://ryanstutorials.net/linuxtutorial/)
 
 #### [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php) - What is it, how does it work and how do I get to one.
 ___
