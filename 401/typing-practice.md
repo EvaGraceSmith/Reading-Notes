@@ -17,4 +17,5 @@ ___
 * Lesson 6 ![Lesson 6](img/typing-lesson-06.png)
 * Lesson 7 ![Lesson 7](img/typing-lesson-07.png)
 * Lesson 8 ![Lesson 8](img/typing-lesson-08.png)
+* Lesson 9 ![Lesson 9](img/typing-lesson-09.png)
 
