@@ -20,3 +20,4 @@ ___
 * Lesson 9  ![Lesson 9](img/typing-lesson-09.png)
 * Lesson 10 ![Lesson 10](img/typing-lesson-10.png)
 * Lesson 11 ![Lesson 11](img/typing-lesson-11.png)
+* Lesson 12 ![Lesson 12](img/typing-lesson-12.png)
