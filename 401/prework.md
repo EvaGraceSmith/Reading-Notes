@@ -17,7 +17,7 @@ ___
 
 ### Career Coaching Pre-Work
 --- 
-- [ ] [Mindset](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/mindset)
+- [x] [Mindset](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/mindset)
     - [x] Read [Upgrade Your Technical Skills with Deliberate Practice.](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice) (10 minutes)
     - [x] Watch [Carol Dweck on the Growth Mindset.](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en) (10 minutes)
     - [x] Watch [Angela Lee Duckworth on Grit.](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/comments) (6 minutes)
