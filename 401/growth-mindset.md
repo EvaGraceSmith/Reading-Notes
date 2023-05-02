@@ -22,7 +22,7 @@ I don't think anyone with a background similar to mine would alter course and at
 #### [Carol Dweck on the Growth Mindset.](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en) (10 minutes)
 
 **"Not Yet ""**
-The power of learning can come from changing your mindset from **"I can't** because **"I can't yet"**
+The power of learning can come from changing your mindset from **"I can't** to **"I can't yet"**
 
 If you can challenge yourself to understand you are continually developing, to keep a mindset that embraces growth, that abilities can be developed, you can learn from your failure. You can grow from them. 
 
@@ -37,7 +37,7 @@ I love these two quotes from her speech. They empassion me as I attempt a very d
 "So far, the best idea I've heard about building grit in kids is something called "growth mindset." This is an idea developed at Stanford University by Carol Dweck, and it is the belief that the ability to learn is not fixed, that it can change with your effort. Dr. Dweck has shown that when kids read and learn about the brain and how it changes and grows in response to challenge, they're much more likely to persevere when they fail, because they don't believe that failure is a permanent condition."
 
 
-####[Alain de Botton on Redefining Success](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success). 
+#### [Alain de Botton on Redefining Success](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success). 
 
 Contentment is elusive and judgement is rampant. 
 
