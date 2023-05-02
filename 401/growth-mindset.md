@@ -1,10 +1,9 @@
 ### The Growth Mindset
 ___
 
-Begin with a statement addressing why this topic matters as it relates to what you are studying in this module.
 
-*If there are no questions provided, summarize and explain this topic via an analogy from your previous work or home experience.*
 
+I don't think anyone with a background similar to mine would alter course and attempt an endeavor as challenging as advanced software development, without some hope that, indeed, our minds can grow and change and develop. These article are "preaching to the choir" so to speak. They also give good reminders and inspiration on how to better achieve these goals. 
 
    #### [Upgrade Your Technical Skills with Deliberate Practice.](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice) (10 minutes)
 
