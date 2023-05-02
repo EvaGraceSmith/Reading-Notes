@@ -5,7 +5,7 @@ ___
 
 I don't think anyone with a background similar to mine would alter course and attempt an endeavor as challenging as advanced software development, without some hope that, indeed, our minds can grow and change and develop. These article are "preaching to the choir" so to speak. They also give good reminders and inspiration on how to better achieve these goals. 
 
-   #### [Upgrade Your Technical Skills with Deliberate Practice.](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice) (10 minutes)
+   #### [Upgrade Your Technical Skills with Deliberate Practice.](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice)
 
    This article challenges you to keep learning, to not stop once formal training has ended. There are many benefits listed but one of the primary reasons for those in technical fields is to stay relevant. A highlight from the article:
 
@@ -19,7 +19,7 @@ I don't think anyone with a background similar to mine would alter course and at
 * It requires good goals"
 
 
-#### [Carol Dweck on the Growth Mindset.](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en) (10 minutes)
+#### [Carol Dweck on the Growth Mindset.](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en) 
 
 **"Not Yet ""**
 The power of learning can come from changing your mindset from **"I can't** to **"I can't yet"**
