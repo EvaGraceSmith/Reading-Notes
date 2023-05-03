@@ -41,7 +41,7 @@ ___
 ___
 - [x]  [Install developer  tools and utilities](https://codefellows.github.io/setup-guide/code-401-javascript/)
 - [x] [Complete all of the Code 301 Code Challenges](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/301-code-challenges)
-- [ ] [Callbacks](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/callbacks/)
+- [x] [Callbacks](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/callbacks/)
 - [ ] [Promises](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/promises/)
 - [ ] [Async/Await](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/async-await/)
 - [x] [ES6 Classes](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/classes/)
