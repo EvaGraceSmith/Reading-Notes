@@ -20,8 +20,9 @@ ___
 
 ### Practice running common SQL commands using the following [SQL Bolt](https://sqlbolt.com/) tutorials.
 ____
-Lessons 1 through 6 - SQL Queries
-Lessons 13 through 18 - Database Management
+
+* Lessons 1 through 6 - SQL Queries
+* Lessons 13 through 18 - Database Management
 
 This SQL tutorial runs through the basic commands to help navigate your way around a SQL database. 
 
