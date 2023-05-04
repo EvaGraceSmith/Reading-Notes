@@ -18,7 +18,7 @@ For each of the tutorial sections:
 * Capture a screen shot of the completed task list.
 
 #### Lesson 1
-
+* Lesson 1  ![Lesson 1](img/sql-lesson-01.png)
 #### Lesson 2
 
 #### Lesson 3
