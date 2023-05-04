@@ -51,12 +51,13 @@ For each of the tutorial sections:
 * Lesson 15  ![Lesson 15](img/sql-lesson-15.png)
 (This lesson shows how to delete a database)
 #### Lesson 16
-* Lesson 15  ![Lesson 15](img/sql-lesson-15.png)
+* Lesson 16  ![Lesson 16](img/sql-lesson-16.png)
 (This lesson shows how to add a table to a database)
 #### Lesson 17
-* Lesson 15  ![Lesson 15](img/sql-lesson-15.png)
+* Lesson 17  ![Lesson 17](img/sql-lesson-17.png)
 (This lesson shows how to add a column to a database)
 #### Lesson 18
-
+* Lesson 18  ![Lesson 18](img/sql-lesson-18.png)
+(This lesson shows how to drop a table (and it's schema) from  a database)
 
 
