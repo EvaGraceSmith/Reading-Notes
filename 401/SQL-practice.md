@@ -20,7 +20,7 @@ For each of the tutorial sections:
 #### Lesson 1
 * Lesson 1  ![Lesson 1](img/sql-lesson-01.png)
 #### Lesson 2
-
+* Lesson 2  ![Lesson 2](img/sql-lesson-02.png)
 #### Lesson 3
 
 #### Lesson 4
