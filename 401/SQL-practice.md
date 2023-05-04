@@ -40,7 +40,7 @@ For each of the tutorial sections:
 #### Lesson 11
 * Lesson 11  ![Lesson 11](img/sql-lesson-11.png)
 #### Lesson 12
-
+* Lesson 12  ![Lesson 12](img/sql-lesson-12.png)
 #### Lesson 13
 
 #### Lesson 14
