@@ -32,7 +32,7 @@ For each of the tutorial sections:
 #### Lesson 7
 * Lesson 7  ![Lesson 7](img/sql-lesson-07.png)
 #### Lesson 8
-
+* Lesson 8  ![Lesson 8](img/sql-lesson-07.png)
 #### Lesson 9
 
 #### Lesson 10
