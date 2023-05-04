@@ -51,7 +51,8 @@ For each of the tutorial sections:
 * Lesson 15  ![Lesson 15](img/sql-lesson-15.png)
 (This lesson shows how to delete a database)
 #### Lesson 16
-
+* Lesson 15  ![Lesson 15](img/sql-lesson-15.png)
+(This lesson shows how to add a table to a database)
 #### Lesson 17
 
 #### Lesson 18
