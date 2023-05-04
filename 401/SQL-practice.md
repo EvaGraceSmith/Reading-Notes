@@ -1,6 +1,17 @@
 ## [SQL Practice](https://codefellows.github.io/common_curriculum/prework/SQL)
 ___
 
+**What is a SQL Database? How does it compare to a No-SQL database? I asked chatGPT to explain this to a child, and here is the response:**
+
+"Imagine you have a big toy box with all your toys in it. When you want to play with a specific toy, you have to dig through the whole box until you find it. This can take a lot of time and effort, especially if you have a lot of toys.*
+
+A SQL database is like a toy box with drawers. Each drawer has a label, and you can put specific toys in each drawer based on their label. This way, when you want to play with a specific toy, you just need to open the drawer with the correct label, and you'll find the toy you're looking for right away. This is called a "structured" way of storing information.
+
+A NoSQL database, on the other hand, is like a toy box without any drawers. Instead, you just toss all your toys into the box, without any specific order or organization. When you want to play with a specific toy, you have to dig through the whole box, just like before. This is called an "unstructured" way of storing information.
+
+Both types of databases have their own advantages and disadvantages, depending on what you need them for. SQL databases are great for storing structured data, like financial records or customer information, because they can easily find specific pieces of information based on labels. NoSQL databases are great for storing unstructured data, like social media posts or web logs, because they can handle a lot of data at once and don't need to be organized in a specific way."*
+
+
 
 ### [Download Free Book](https://cdn2.hubspot.net/hubfs/392937/Learn%20SQL.pdf)
 ___
@@ -11,11 +22,8 @@ ___
 ____
 Lessons 1 through 6 - SQL Queries
 Lessons 13 through 18 - Database Management
-For each of the tutorial sections:
 
-* Read the guidance.
-* Complete the exercises.
-* Capture a screen shot of the completed task list.
+This SQL tutorial runs through the basic commands to help navigate your way around a SQL database. 
 
 #### Lesson 1
 * Lesson 1  ![Lesson 1](img/sql-lesson-01.png)
