@@ -24,9 +24,9 @@ For each of the tutorial sections:
 #### Lesson 3
 * Lesson 3  ![Lesson 3](img/sql-lesson-03.png)
 #### Lesson 4
-* Lesson 3  ![Lesson 4](img/sql-lesson-04.png)
+* Lesson 4  ![Lesson 4](img/sql-lesson-04.png)
 #### Lesson 5
-
+* Lesson 5  ![Lesson 5](img/sql-lesson-05.png)
 #### Lesson 6
 
 #### Lesson 7
