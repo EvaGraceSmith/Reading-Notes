@@ -25,8 +25,7 @@ In a web browser, JavaScript code runs in the context of a webpage, manipulating
 
 Node is a platform that allows developers to use JavaScript on the server-side, providing a way to run JavaScript code outside of a browser environment. It includes a set of libraries and tools that enable developers to create server-side applications using JavaScript, and provides a way for the JavaScript code to interact with the operating system and perform tasks like reading and writing files or communicating with other software applications.
 
-So, to sum up, Node being a JavaScript runtime means that it provides an environment for running JavaScript code on a server, allowing developers to create server-side applications using the same programming language they use for client-side programming in the browser."
-- ChatGPT
+So, to sum up, Node being a JavaScript runtime means that it provides an environment for running JavaScript code on a server, allowing developers to create server-side applications using the same programming language they use for client-side programming in the browser." - ChatGPT
 
 3. What is Node used for?
 
