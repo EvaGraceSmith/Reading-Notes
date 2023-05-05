@@ -84,7 +84,10 @@ ___
 
 #### Level 5
 ___
-* #####   ![Level 5-1](img/git-level-05-01.png)
-
+* #####  Rebasing 9000 times ![Level 5-1](img/git-level-05-01.png)
+* demonstrates how you can move branches and merge them so commits are in order
 * 
-* #####  ![Level 5-2](img/git-level-05-02.png)
+* ##### Multiple Parents ![Level 5-2](img/git-level-05-02.png)
+* Like the ~ modifier, the ^ modifier also accepts an optional number after it.
+* Rather than specifying the number of generations to go back (what ~ takes), the modifier on ^ specifies which parent reference to follow from a merge commit. Remember that merge commits have multiple parents, so the path to choose is ambiguous.
+* Git will normally follow the "first" parent upwards from a merge commit, but specifying a number with ^ changes this default behavior.
