@@ -1,6 +1,8 @@
 ### Node.js
 ___
 
+Nodejs is a powerful tool that allows for the use of JavaScript when building servers. This enables programmers who know JavaScript to be Full-Stack Developers.
+
 #### Readings
 ___
 
@@ -65,3 +67,9 @@ ___
 * I want to gain the knowledge to write tests.
 
 * I want to gain confidence and skills in building servers. 
+
+## Things I want to know more about:
+
+* How to build tests
+* What tools were used before Node.js?
+* Are there tools currently in development that might replace Node.js?
