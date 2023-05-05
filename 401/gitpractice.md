@@ -54,7 +54,33 @@ ___
 
 #### Level 4
 ___
-* #####  ![Level 2-1](img/git-level-02-01.png)
-* #####  ![Level 2-2](img/git-level-02-02.png)
-* #####  ![Level 2-3](img/git-level-02-03.png)
-* #####  ![Level 2-4](img/git-level-02-04.png)
+* #####  Locally Stacked Commits ![Level 4-1](img/git-level-04-01.png)
+* Grabbing just one commit
+* discusses using both rebase and cherry pick to select which commit to keep and move
+
+* #####  Juggling Commits ![Level 4-2](img/git-level-04-02.png)
+* How to alter a commit way up the chain:
+* *git commit -i HEAD~2* re-order the commits so the one we want to change is on top with git rebase -i
+* *git commit --amend* to make the slight modification
+* *git rebase -i HEAD~2* re-order the commits back to how they were previously with git rebase -i
+* *git rebase caption main* move main to this updated part of the tree to finish the level
+
+* #####  Juggling Commits #2 ![Level 4-3](img/git-level-04-03.png)
+* How to accomplish the same as above using cherry pick and no rebase:
+* *git checkout branchYouWantToBeOn*
+* *git cherry-pick commitYouWantToAmend* pick the commit you want to amend.
+* *git commit --amend* Amend the commit.
+* *git cherry-pick commitYouWantAtTheEndOfTheBranch*
+
+* #####  Git Tags![Level 4-4](img/git-level-04-04.png)
+* Tags exist as anchors in the commit tree that designate certain spots.
+* 
+
+* #####  ![Level 4-5](img/git-level-04-05.png)
+
+#### Level 5
+___
+* #####   ![Level 5-1](img/git-level-05-01.png)
+
+* 
+* #####  ![Level 5-2](img/git-level-05-02.png)
