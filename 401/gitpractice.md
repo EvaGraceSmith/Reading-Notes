@@ -74,9 +74,13 @@ ___
 
 * #####  Git Tags![Level 4-4](img/git-level-04-04.png)
 * Tags exist as anchors in the commit tree that designate certain spots.
-* 
+* *git tag v1 C1
 
-* #####  ![Level 4-5](img/git-level-04-05.png)
+* ##### Git Describe ![Level 4-5](img/git-level-04-05.png)
+* *git describe* Describes where you are relative to the closest "anchor" (aka tag).
+* Git describe takes the form of: git describe <ref>
+* <ref> is anything git can resolve into a commit. If you don't specify a ref, git just uses where you're checked out right now (HEAD).
+* The output of the command looks like: <tag>_<numCommits>_g<hash> :Tag is the closest ancestor tag in history, numCommits is how many commits away that tag is, and <hash> is the hash of the commit being described.
 
 #### Level 5
 ___
