@@ -10,7 +10,7 @@ ___
 
 ### Practice Assignments
 ___
-- [ ] [SQL Practice](401/SQL-practice.md)
+- [x] [SQL Practice](401/SQL-practice.md)
 - [ ] [GIT Practice](401/gitpractice.md)
 - [x] [Bash Practice](401/bash-practice.md)
 - [x] [Typing Practice](401/typing-practice.md)
