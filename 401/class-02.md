@@ -111,7 +111,7 @@ ___
 Overall, CI can help improve collaboration, reduce the risk of integration issues, increase code quality, and speed up the development process." - ChatGPT
 
 
-#### 2. What is the difference between Continuos Delivery and Continuous Deployment?
+#### 2. What is the difference between Continuous Delivery and Continuous Deployment?
 
 "Continuous Delivery (CD) and Continuous Deployment (CDep) are both software development practices that involve automatically building, testing, and releasing code changes. The main difference between the two is in the scope of the automation:
 
