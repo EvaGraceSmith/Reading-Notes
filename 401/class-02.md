@@ -42,7 +42,7 @@ Maintainability: Large codebases can be difficult to manage and maintain, especi
 
 Scalability: Modularity can make it easier to scale applications by allowing developers to add or remove modules as needed, without affecting other parts of the codebase.
 
-Overall, modularity is a useful practice for developers because it can help reduce complexity, increase reusability, and make code easier to manage and maintain over time."
+Overall, modularity is a useful practice for developers because it can help reduce complexity, increase reusability, and make code easier to manage and maintain over time." - ChatGPT
 
 
 ### [What is NPM?](https://docs.npmjs.com/about-npm)
