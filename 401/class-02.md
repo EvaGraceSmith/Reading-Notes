@@ -74,14 +74,14 @@ Overall, TDD is an important practice in software development that can help ensu
 
 #### 2. What are three expected benefits of testing
 
-* Many teams report significant reductions in defect rates, at the cost of a moderate increase in initial development effort
+* "Many teams report significant reductions in defect rates, at the cost of a moderate increase in initial development effort
 * The same teams tend to report that these overheads are more than offset by a reduction in effort in projects’ final phases
-* Although empirical research has so far failed to confirm this, veteran practitioners report that TDD leads to improved design qualities in the code, and more generally a higher degree of “internal” or technical quality, for instance improving the metrics of cohesion and coupling
+* Although empirical research has so far failed to confirm this, veteran practitioners report that TDD leads to improved design qualities in the code, and more generally a higher degree of “internal” or technical quality, for instance improving the metrics of cohesion and coupling" - [Agile Alliance](https://www.agilealliance.org/glossary/tdd/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'tdd))~searchTerm~'~sort~false~sortDirection~'asc~page~1))
 
 
 #### 3. Name at lest 2 individual pitfalls and at least 2 team pitfalls commonly encountered while writing tests.
 
-Typical individual mistakes include:
+"Typical individual mistakes include:
 
 * forgetting to run tests frequently
 * writing too many tests at once
@@ -93,7 +93,7 @@ Typical team pitfalls include:
 
 * partial adoption – only a few developers on the team use TDD
 * poor maintenance of the test suite – most commonly leading to a test suite with a prohibitively long running time
-* abandoned test suite (i.e. seldom or never run) – sometimes as a result of poor maintenance, sometimes as a result of team turnover
+* abandoned test suite (i.e. seldom or never run) – sometimes as a result of poor maintenance, sometimes as a result of team turnover" -[Agile Alliance](https://www.agilealliance.org/glossary/tdd/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'tdd))~searchTerm~'~sort~false~sortDirection~'asc~page~1))
 
 ### CI/CD
 ___
