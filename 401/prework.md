@@ -2,7 +2,7 @@
 
 ### Computer and Systems Set Up
 ___
-- [x] [Basic Computer Setup](https://codefellows.github.io/setup-guide/)
+- [] [Basic Computer Setup](https://codefellows.github.io/setup-guide/)
 - [ ] [301 Computer Setup](https://codefellows.github.io/setup-guide/code-301/)
 - [ ] [Setup Your Accounts](https://codefellows.github.io/common_curriculum/prework/setup-your-accounts)
 - [x] [Create a Reading Notes Repo](https://codefellows.github.io/common_curriculum/prework/setup-readings)
@@ -24,7 +24,7 @@ ___
     - [x] Watch [Alain de Botton on Redefining Success](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success). (17 minutes)
     - [x] Assess your [emotional intelligence](https://codefellows.github.io/common_curriculum/career_coaching/201/emotional-intelligence-assessment.pdf). 
     - [x] Assess your [biases](https://codefellows.github.io/common_curriculum/career_coaching/301/bias-assessment.pdf). 
-- [ ] [Professional Etiquette](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/professional-etiquette)
+- [x] [Professional Etiquette](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/professional-etiquette)
 - [ ] [Career Coaching Status Report](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/status-report)
 - [ ] [Update Your Resume](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/update-your-resume)
 
