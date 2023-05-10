@@ -1,10 +1,10 @@
-### Engineering Readings
-#### Developing Problem-solving skills
+## Engineering Readings
+### Developing Problem-solving skills
 ____
 
 Solving problems is the meat and potatoes of developing. Learning to do so with skill and efficiency will help grow you in to a better developer. 
 
-### Act like you make $1000/hr
+### [Act like you make $1000/hr](https://anthony-moore.medium.com/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-6ab2302b8e8c)
 ___
 
 *"Pretend your time is worth $1,000/hr. Would you spend five of them doing extra work for free? Would you waste one on being angry?” -Niklas Göke*
