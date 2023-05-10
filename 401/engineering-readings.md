@@ -1,4 +1,4 @@
-## Engineering Readings
+## [Engineering Readings](https://canvas.instructure.com/courses/6745251/discussion_topics/18080728)
 ### Developing Problem-solving skills
 ____
 
