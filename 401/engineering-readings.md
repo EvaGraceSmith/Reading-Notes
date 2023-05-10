@@ -64,11 +64,13 @@ ____
 
 * **Life Gamification:** Learn from, but don't focus on failures.
 
-* What’s the one thing I bring to this career (and a potential employer) that nobody else can?
+### Additional Questions:
 
--My own unique perspective and experiences
+##### What’s the one thing I bring to this career (and a potential employer) that nobody else can?
 
-* What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?
+* My own unique perspective and experiences
+
+##### What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?
 
 1. Use the rubber duck (rubber or human) to talk through the issue
 
