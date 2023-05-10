@@ -42,22 +42,22 @@ ___
 What should you do when you encounter a new problem?
 
 1. Understand
-    This is why you should write down your problem, doodle a diagram, or tell someone else about it (or thing… some people use a rubber duck).
+    * This is why you should write down your problem, doodle a diagram, or tell someone else about it (or thing… some people use a rubber duck).
 2. Plan
-    Nothing can help you if you can’t write down the exact steps.
+    * Nothing can help you if you can’t write down the exact steps.
 3. Divide
-    Break it into sub-problems. These sub-problems are much easier to solve.
+    * Break it into sub-problems. These sub-problems are much easier to solve.
 4. Stuck?
-    The difference is the best programmers/problem-solvers are more curious about bugs/errors than irritated.
+    * The difference is the best programmers/problem-solvers are more curious about bugs/errors than irritated.
 5. Practice
-    Find an outlet to practice. Something that allows you to solve many micro-problems (ideally, something you enjoy).
+    * Find an outlet to practice. Something that allows you to solve many micro-problems (ideally, something you enjoy).
 
 ### [The five why's](https://www.mindtools.com/a3mi00v/5-whys)
 ___
 
 * Continue asking why, follow the trail to go deeper into finding a solution. 
 
-[The Super Mario Effect](https://www.youtube.com/watch?v=9vJRopau0g0)
+### [The Super Mario Effect](https://www.youtube.com/watch?v=9vJRopau0g0)
 ____
 
 * Frame the learning process in the right way. Don't be concerned with failure. Focus on the end goal.
