@@ -7,9 +7,15 @@ Solving problems is the meat and potatoes of developing. Learning to do so with 
 ### [Act like you make $1000/hr](https://anthony-moore.medium.com/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-6ab2302b8e8c)
 ___
 
+This article talks about the value of your time, and challenges you to be very specific and intentional with how you spend it. Give a task your complete focus, and then be done. Know what your goals are, short and long term. If an activity doesn't align with those goals, say no to it. 
+
 *"Pretend your time is worth $1,000/hr. Would you spend five of them doing extra work for free? Would you waste one on being angry?” -Niklas Göke*
 
+"Extremely successful people don’t tolerate busywork or distraction. They have crystal clear vision on their goals, and do what they need to do to get there, every single day." - Anthony Moore
 
+“Being busy is a form of mental laziness.” -Tim Ferriss
+
+“Busyness and exhaustion should be your enemy. If you’re chronically stressed and up late working, you’re doing something wrong. Do less. But do what you do with complete, hard focus. Then when you’re done be done, and go enjoy the rest of your day.” - Cal Newport
 
 ### [Solving Problems](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
 ___
