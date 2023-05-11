@@ -101,13 +101,11 @@ ____
 * Used to represent web pages and links by search engines. Web pages on the internet are linked to each other by hyperlinks. Each page is a vertex and the hyperlink between two pages is an edge. Used for Page Ranking in Google.
 * Used to represent locations and routes in GPS. Locations are vertices and the routes connecting locations are edges. Used to calculate the shortest route between two locations.
 
-[Cheat Sheet](https://www.bigocheatsheet.com/)
-![CheatSheet](img/big-o-cheat-sheet.png)
-
 
 #### Why Big O
 * *This particular article would not open for me due to security issues. So I read other articles with similar titles, and this is the key take away point:*
 
+[Big O notation, a beginner's guide](https://info.keylimeinteractive.com/why-developers-should-consider-big-o-notation#:~:text=Big%2DO%20tells%20you%20the,handle%20user%20requests%20is%20critical.)
 
 "Big-O tells you the complexity of an algorithm in terms of the size of its inputs. This is essential if you want to know how algorithms will scale. If you need to design a big website and expect a lot of users, the time it takes you to handle user requests is critical." - Key Lime interactive
 
