@@ -1,6 +1,6 @@
 ## Data Modeling
 
-Begin with a statement addressing why this topic matters as it relates to what you are studying in this module.
+Storing data is an integral part of development. Learning the different options, and becoming familiar with when you would choose each type is important to gaining skill and proper usage. 
 
 
 ### Reading
