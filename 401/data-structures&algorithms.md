@@ -126,3 +126,7 @@ How an algorithm will scale, and the resulting time involved.
 #### [Big-O Notation](https://www.linkedin.com/pulse/big-o-notation-simple-explanation-examples-pamela-lovett/)
 
 * This is a great overview of Big-O notation using a book as an example, providing a vivid visual to help you grasp the concept. 
+
+## Things I want to know more about
+
+This topic is certainly complex, so breaking it down into simpler terms and concepts, and reviewing  and practicing to master will be crucial. 
