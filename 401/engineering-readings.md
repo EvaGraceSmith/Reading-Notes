@@ -7,7 +7,7 @@ Solving problems is the meat and potatoes of developing. Learning to do so with 
 ### [Act like you make $1000/hr](https://anthony-moore.medium.com/pretend-your-time-is-worth-1-000-hour-and-youll-become-100x-more-productive-6ab2302b8e8c)
 ___
 
-This article talks about the value of your time, and challenges you to be very specific and intentional with how you spend it. Give a task your complete focus, and then be done. Know what your goals are, short and long term. If an activity doesn't align with those goals, say no to it. 
+This article discusses the value of your time, and challenges you to be very specific and intentional with how you spend it. Give a task your complete focus, and then be done. Know what your goals are, short and long term. If an activity doesn't align with those goals, say no to it. 
 
 *"Pretend your time is worth $1,000/hr. Would you spend five of them doing extra work for free? Would you waste one on being angry?” -Niklas Göke*
 
