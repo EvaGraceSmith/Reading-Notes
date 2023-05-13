@@ -26,6 +26,14 @@ ___
     - [x] Assess your [biases](https://codefellows.github.io/common_curriculum/career_coaching/301/bias-assessment.pdf). 
 - [x] [Professional Etiquette](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/professional-etiquette)
 - [ ] [Career Coaching Status Report](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/status-report)
+    - [x] Update your resume: URL
+    - [x] LinkedIn: URL
+    - [x] GitHub: URL
+    - [x] Social Media: URL
+    - [x] Behavioral questions: URL
+    - [] Networking event opportunities: URL
+    - [] Target companies: URL
+    - [] Professional Pitch: URL
 - [x] [Update Your Resume](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/update-your-resume)
 
 ### Readings and Videos
