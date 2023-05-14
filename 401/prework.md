@@ -4,7 +4,7 @@
 ___
 - [x] [Basic Computer Setup](https://codefellows.github.io/setup-guide/)
 - [x] [301 Computer Setup](https://codefellows.github.io/setup-guide/code-301/)
-- [ ] [Setup Your Accounts](https://codefellows.github.io/common_curriculum/prework/setup-your-accounts)
+- [x] [Setup Your Accounts](https://codefellows.github.io/common_curriculum/prework/setup-your-accounts)
 - [x] [Create a Reading Notes Repo](https://codefellows.github.io/common_curriculum/prework/setup-readings)
 
 
