@@ -113,4 +113,4 @@ This page includes my notes for each class. Feel free to follow along!
 - [Class 43](401/class-43.md)
 
 
-<link href="https://octodex.github.com/femalecodertocat/" rel="alternate" type="text/html" title="Femalecodertocat"/>
+!(link href="https://octodex.github.com/femalecodertocat/)
