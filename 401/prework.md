@@ -25,15 +25,15 @@ ___
     - [x] Assess your [emotional intelligence](https://codefellows.github.io/common_curriculum/career_coaching/201/emotional-intelligence-assessment.pdf). 
     - [x] Assess your [biases](https://codefellows.github.io/common_curriculum/career_coaching/301/bias-assessment.pdf). 
 - [x] [Professional Etiquette](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/professional-etiquette)
-- [ ] [Career Coaching Status Report](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/status-report)
+- [x] [Career Coaching Status Report](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/status-report)
     - [x] Update your resume: URL
     - [x] LinkedIn: URL
     - [x] GitHub: URL
     - [x] Social Media: URL
     - [x] Behavioral questions: URL
-    - [] Networking event opportunities: URL
-    - [] Target companies: URL
-    - [] Professional Pitch: URL
+    - [x] Networking event opportunities: URL
+    - [x] Target companies: URL
+    - [x] Professional Pitch: URL
 - [x] [Update Your Resume](https://codefellows.github.io/common_curriculum/career_coaching/401/prework/update-your-resume)
 
 ### Readings and Videos
@@ -47,7 +47,7 @@ ___
 
 ### Get Ready for Javascript
 ___
-- []  [Install developer  tools and utilities](https://codefellows.github.io/setup-guide/code-401-javascript/)
+- [x]  [Install developer  tools and utilities](https://codefellows.github.io/setup-guide/code-401-javascript/)
 - [x] [Complete all of the Code 301 Code Challenges](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/301-code-challenges)
 - [x] [Callbacks](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/callbacks/)
 - [x] [Promises](https://codefellows.github.io/code-401-javascript-guide/curriculum/prework/promises/)
