@@ -1,23 +1,13 @@
 ### Linked Lists
 
-Begin with a statement addressing why this topic matters as it relates to what you are studying in this module.
-
 
 To turn in your reading “Reply” to this discussion by teaching something that you learned. Then review what one of your classmates learned, and leave a comment.
 
-Some ideas for how you might want to teach:
 
-Use an analogy
-Explain a detail in depth
-Use WHY, WHAT, HOW structure
-Tutorial / walk through an example
-Write a quiz
-Create a vocabulary/definition list
-Write a cheat sheet
-Create a diagram / visualization / cartoon of a topic
-Anthropomorphize the concepts, and write a conversation between them
-Build a map of the information
-Construct a fill-in-the-blank worksheet for the topic
+
+#### Sql v noSql
+
+A good analogy to compare sql versus noSql comes from a child's bedroom. Sql would be like their dresser drawers, with items clearly labeled. Everything has a neat organized compartment. Items are easy to access and find, but there is no flexibility for odd shaped or large items. NoSql would be more like a toy box. It has a great range of flexibility for storing items of any shape and size. 
 
 
 ### Resources
@@ -27,5 +17,3 @@ Read: [Linked Lists](https://codefellows.github.io/common_curriculum/data_struct
 Read: [What’s a Linked List, Anyway pt1](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
 Read: [What’s a Linked List, Anyway pt2](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
 
-
-## Things I want to know more about
