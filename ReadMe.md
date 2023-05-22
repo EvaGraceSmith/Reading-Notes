@@ -73,7 +73,7 @@ This page includes my notes for each class. Feel free to follow along!
 - [Class 03 Express, REST API](401/class-03-Express-REST-API.md)
 - [Class 04 Data Modeling](401/class-04-Data-Modeling.md)
 - [Class 05 Linked Lists](401/class-05-Linked-Lists.md)
-- [Class 06](401/class-06.md)
+- [Class 06 Authentication](401/class-06-Authentication.md)
 - [Class 07](401/class-07.md)
 - [Class 08](401/class-08.md)
 - [Class 09](401/class-09.md)
