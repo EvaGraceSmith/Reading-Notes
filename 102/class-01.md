@@ -28,4 +28,4 @@ Quoting text
 You can quote text with a >.
 
 Code
-To denote a word or phrase as code, enclose it in backticks (`).
+To denote a word or phrase as code, enclose it in `backticks` (`).

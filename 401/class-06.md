@@ -1,12 +1,14 @@
 ## Authentication
+___
 
 
-Begin with a statement addressing why this topic matters as it relates to what you are studying in this module.
+*"Restricting access to information online is one of the foundational paradigms of the internet. Whether it’s your online bank account, facebook profile, or a one-time viewing of a document to sign, getting “logged in” to a website is an everyday activity for almost every internet user." - CodeFellows*
 
 ### Readings
-[Securing Passwords](https://thehackernews.com/2014/04/securing-passwords-with-bcrypt-hashing.html)
+___
+#### [Securing Passwords](https://thehackernews.com/2014/04/securing-passwords-with-bcrypt-hashing.html)
 
-#### Explain to a non-technical friend how you would safely hash and store a password.
+##### Explain to a non-technical friend how you would safely hash and store a password.
 
 "To safely hash and store a password, I would use a cryptographic hashing algorithm like Bcrypt. First, I would take the password provided by the user and pass it through the Bcrypt algorithm. This process converts the password into a fixed-length string of characters that cannot be easily reversed. The resulting hash is what we store in the database. Importantly, we never store the actual password itself."
 "When the user tries to log in, we repeat the same process with the entered password and compare the resulting hash with the stored hash. If they match, it means the entered password is correct. This way, even if someone gains unauthorized access to the database, they won't be able to retrieve the original passwords." - ChatGPT
@@ -39,13 +41,13 @@ So, in simple terms, a hashing algorithm is a special way of turning information
 #### What properties are necessary in the header of a Basic Auth request?
 "In a Basic Auth request, the header should include the following properties:
 
-Authorization: Basic <credentials>: This is the main header field that contains the authentication information. The word "Basic" indicates the type of authentication being used.
-<credentials>: This is the Base64 encoding of the user's ID (username) and password joined by a colon (:). The ID and password are combined and encoded to form a single string." - ChatGPT
+* Authorization: Basic `credentials`: This is the main header field that contains the authentication information. The word "Basic" indicates the type of authentication being used.
+* `credentials`: This is the Base64 encoding of the user's ID (username) and password joined by a colon (:). The ID and password are combined and encoded to form a single string." - ChatGPT
 
 #### How are username:password in Basic Auth encoded?
 "The username and password in Basic Authentication are encoded using Base64 encoding. Base64 is a method of representing binary data (such as the username and password) in ASCII characters. The resulting encoded string is then sent as part of the request header." - ChatGPT
 
-#### [OWASP auth cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
+### [OWASP auth cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
 
 1. **Define the authentication process to a non-technical recruiter.**
 "The authentication process, in simple terms, refers to the verification of an individual, entity, or website to confirm their identity. In the context of web applications, authentication typically involves entering a username or ID and providing private information that only the authorized user should know." - ChatGPT
@@ -55,11 +57,11 @@ Authorization: Basic <credentials>: This is the main header field that contains 
 3. **Why?**
 "The primary reason for using generic error messages is to prevent attackers from exploiting the authentication system by enumerating valid user accounts. By providing consistent error messages regardless of the specific authentication failure, the application eliminates the possibility of attackers determining valid usernames or passwords based on the error responses they receive. This helps maintain the security of user accounts and enhances the overall security posture of the application." - ChatGPT
 
-##### Consider OWASP fundamentals any time you interact with authentication. Applications developed with security in mind from inception have fewer vulnerabilities throughout their lifecycle.
+##### *Consider OWASP fundamentals any time you interact with authentication. Applications developed with security in mind from inception have fewer vulnerabilities throughout their lifecycle.*
 
 ### Bookmark and Review
 
-[bcrypt docs](https://www.npmjs.com/package/bcrypt)
+#### [bcrypt docs](https://www.npmjs.com/package/bcrypt)
 
 - This is an npm library to help you hash passwords
 
@@ -70,7 +72,6 @@ Looking ahead at this module’s [course schedule](https://codefellows.github.io
 * Utilizing Authentication and Authorization securely is an important function of programming. 
 
 What are your learning goals after reading and reviewing the class [README](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-06/)?
-
 
 * I want to be comfortable and confident in utilizing authorization in my projects. 
 
