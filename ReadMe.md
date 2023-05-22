@@ -75,7 +75,7 @@ This page includes my notes for each class. Feel free to follow along!
 - [Class 05 Linked Lists](401/class-05-Linked-Lists.md)
 - [Class 06 Authentication](401/class-06-Authentication.md)
 - [Class 07 Authorization](401/class-07-Authorization.md)
-- [Class 08](401/class-08.md)
+- [Class 08 Access Control](401/class-08-Access-Control.md)
 - [Class 09](401/class-09.md)
 - [Class 10 Stacks and Queues](401/class-10-Stacks-and-Queues.md)
 - [Class 11](401/class-11.md)
