@@ -4,7 +4,6 @@
 
 #### [Stacks and Queues](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html)
 
-### To turn in your reading “Reply” to this discussion by teaching something that you learned. Then review what one of your classmates learned, and leave a comment.
 
 ##### Stack:
 Think of a stack like stacking plates in your cupboard. 
