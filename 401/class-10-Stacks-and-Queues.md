@@ -10,7 +10,7 @@ Think of a stack like stacking plates in your cupboard.
 
 When loading clean plates, you always put them on the top of the pile of plates. 
 
-If you want use a plate would you grab from the center of the bottom of the stack? No! 
+If you want use a plate would you grab from the center or the bottom of the stack? No! 
 
 You would grab the TOP plate. 
 
