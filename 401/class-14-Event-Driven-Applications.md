@@ -18,3 +18,7 @@ Read today’s [Lab Requirements](https://codefellows.github.io/code-401-javascr
 ##### What are your learning goals after reading and reviewing the class [README](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-14/)?
 
 * I want to learn more about socket.io,  and message queue skills.
+
+Additional Info: 
+
+[Good Podcast list](https://www.codefellows.org/blog/our-favorite-tech-podcasts-for-2021/)
