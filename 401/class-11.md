@@ -1,7 +1,8 @@
 ## Event Driven Programming
 ___
 
-Begin with a statement addressing why this topic matters as it relates to what you are studying in this module.
+Nearly everything in the world is “Event Driven”, and most actions in JS are event driven. Learning how to program this way helps us create applications that are relevant and useful to the world around us.
+
 
 
 
