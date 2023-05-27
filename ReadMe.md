@@ -81,7 +81,7 @@ This page includes my notes for each class. Feel free to follow along!
 - [Class 11](401/class-11.md)
 - [Class 12](401/class-12.md)
 - [Class 13](401/class-13.md)
-- [Class 14](401/class-14.md)
+- [Class 14 Event Driven Applications](401/class-14-Event-Driven-Applications.md)
 - [Class 15](401/class-15.md)
 - [Class 16](401/class-16.md)
 - [Class 17](401/class-17.md)
