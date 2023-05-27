@@ -79,7 +79,7 @@ This page includes my notes for each class. Feel free to follow along!
 - [Class 09 Authorization, Authentication](401/class-09-Authorization-Authentication.md)
 - [Class 10 Stacks and Queues](401/class-10-Stacks-and-Queues.md)
 - [Class 11 Event Driven Programming](401/class-11-Event-Driven-Programming.md)
-- [Class 12](401/class-12.md)
+- [Class 12 Socket.io](401/class-12-Socket-io.md)
 - [Class 13](401/class-13.md)
 - [Class 14 Event Driven Applications](401/class-14-Event-Driven-Applications.md)
 - [Class 15](401/class-15.md)
