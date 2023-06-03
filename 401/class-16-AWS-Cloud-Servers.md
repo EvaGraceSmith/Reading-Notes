@@ -1,12 +1,8 @@
-Begin with a statement addressing why this topic matters as it relates to what you are studying in this module.
 
 
-## Readings: AWS: Cloud Servers
-Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
 
-Review the Submission Instructions for guidance on completing and submitting this assignment.
+## AWS: Cloud Servers
 
-Reading
 ### [AWS EC2](https://aws.amazon.com/ec2/)
 ___
 
