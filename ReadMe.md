@@ -83,7 +83,7 @@ This page includes my notes for each class. Feel free to follow along!
 - [Class 13 Message Queues](401/class-13-Message-Queues.md)
 - [Class 14 Event Driven Applications](401/class-14-Event-Driven-Applications.md)
 - [Class 15](401/class-15.md)
-- [Class 16](401/class-16.md)
+- [Class 16 AWS: Cloud Servers](401/class-16-AWS-Cloud-Servers.md)
 - [Class 17](401/class-17.md)
 - [Class 18](401/class-18.md)
 - [Class 19](401/class-19.md)
