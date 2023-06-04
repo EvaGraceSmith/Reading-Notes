@@ -85,7 +85,7 @@ This page includes my notes for each class. Feel free to follow along!
 - [Class 15](401/class-15.md)
 - [Class 16 AWS: Cloud Servers](401/class-16-AWS-Cloud-Servers.md)
 - [Class 17 S3 and Lambda](401/class-17-S3-and-Lambda.md)
-- [Class 18](401/class-18.md)
+- [Class 18 Dynamo and Lambda](401/class-18-Dynamo-and-Lambda.md)
 - [Class 19](401/class-19.md)
 - [Class 20](401/class-20.md)
 - [Class 21](401/class-21.md)
