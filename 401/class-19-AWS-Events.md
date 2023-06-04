@@ -29,7 +29,7 @@ Using SNS (Simple Notification Service), push notifications work by sending mess
 #### How might a large scale, distributed application make use of a Queue system like SQS?
 
 
-A large-scale, distributed application can use a Queue system like SQS (Simple Queue Service) to decouple components and handle asynchronous processing. It allows different parts of the application to communicate efficiently, ensuring scalability, fault tolerance, and efficient resource utilization across distributed systems.
+A large-scale, distributed application can use a Queue system like SQS (Simple Queue Service) to decouple components and handle asynchronous processing. It allows different parts of the application to communicate efficiently, ensuring scalability, fault tolerance, and efficient resource utilization across distributed systems." - ChatGPT
 
 
 Bookmark and Review
