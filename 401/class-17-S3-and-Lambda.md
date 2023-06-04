@@ -1,11 +1,11 @@
-Readings: AWS: S3 and Lambda
-Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
+## AWS: S3 and Lambda
+
 ## [AWS S3](https://aws.amazon.com/s3/)
 
 #### What is Amazon S3?
 
 
-Amazon S3 (Simple Storage Service) is a cloud-based storage service offered by Amazon Web Services. It provides a simple way to store and retrieve data over the internet. Think of it like a virtual storage space where you can keep your files, documents, images, or videos securely and access them whenever you need, from anywhere.
+"Amazon S3 (Simple Storage Service) is a cloud-based storage service offered by Amazon Web Services. It provides a simple way to store and retrieve data over the internet. Think of it like a virtual storage space where you can keep your files, documents, images, or videos securely and access them whenever you need, from anywhere.
 
 #### Name some use cases for Amazon S3.
 
@@ -49,7 +49,7 @@ A CDN works by caching and delivering website content from servers located near 
 
 #### What are the benefits of employing a CDN?
 
-A Content Delivery Network (CDN) improves website performance by reducing latency, increasing page load speeds, and enhancing user experience. It achieves this by caching content in multiple servers distributed globally, enabling faster delivery of content to users and reducing strain on the origin server.
+A Content Delivery Network (CDN) improves website performance by reducing latency, increasing page load speeds, and enhancing user experience. It achieves this by caching content in multiple servers distributed globally, enabling faster delivery of content to users and reducing strain on the origin server." - ChatGPT
 
 Reflection
 

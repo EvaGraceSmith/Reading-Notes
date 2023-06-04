@@ -6,57 +6,26 @@
 ### [AWS EC2](https://aws.amazon.com/ec2/)
 ___
 
-* What is an EC2 Instance? 
-"An EC2 (Elastic Compute Cloud) instance is a virtual server provided by Amazon Web Services (AWS). It is one of the core services offered by AWS and allows users to rent virtual machines in the cloud to run their applications. EC2 instances provide scalable computing capacity and can be easily provisioned and configured to meet specific requirements.
+#### What is an EC2 Instance? 
 
-Here are some key points about EC2 instances:
+An EC2 (Elastic Compute Cloud) Instance is a virtual server provided by AWS that allows users to run applications and services on the cloud. It offers various configurations of CPU, memory, storage, and networking, allowing users to select the appropriate instance type to meet their specific computing needs.
 
-1. Virtual Servers: EC2 instances are essentially virtual servers running in the cloud. They are created and managed through the AWS Management Console, AWS CLI (Command Line Interface), or SDKs (Software Development Kits).
+#### Name 2 use cases for EC2.
 
-2. Scalability: EC2 instances offer scalability, allowing users to scale up or down the number of instances based on their computing needs. This flexibility helps handle variations in workload and ensures optimal resource utilization.
+1. Web Application Hosting
 
-3. Instance Types: AWS provides a wide range of EC2 instance types optimized for different workloads. These instance types differ in terms of computing power, memory capacity, storage capabilities, and network performance. Users can choose the most appropriate instance type for their specific application requirements.
-
-4. Operating Systems: EC2 instances support various operating systems, including popular options like Linux and Windows. Users can select the desired operating system and configure it according to their needs.
-
-5. Storage Options: AWS offers multiple storage options for EC2 instances, such as Amazon Elastic Block Store (EBS) for persistent block-level storage, Amazon S3 for object storage, and instance store volumes for temporary storage directly attached to the instance.
-
-6. Networking: EC2 instances can be connected to virtual networks within AWS using Amazon Virtual Private Cloud (VPC). Users can configure network settings, security groups, and access control rules to control inbound and outbound traffic.
-
-7. Pricing: EC2 instances follow a pay-as-you-go model, where users are billed based on the instance type, the duration of usage, and any additional resources attached to the instance (such as storage or data transfer).
-
-EC2 instances are widely used for various purposes, including web hosting, application deployment, data processing, machine learning, and more. They provide a flexible and scalable infrastructure for running a wide range of workloads in the cloud.
-
-* Name 2 use cases for EC2.
-
-Web Application Hosting: EC2 instances are often used to host web applications. Users can deploy their web servers, such as Apache or Nginx, on EC2 instances and configure them to serve their web application content. EC2 instances provide the necessary computing power and scalability to handle incoming web traffic, making it easier to handle varying workloads and ensure the availability of the application.
-
-Big Data Processing: EC2 instances are well-suited for big data processing tasks. Organizations can leverage the computational capabilities of EC2 instances to process large volumes of data using frameworks like Apache Hadoop, Apache Spark, or other data processing tools. EC2 instances can be configured in clusters to distribute the workload and speed up data processing tasks, making it easier to analyze and derive insights from large datasets.
+2. Big Data Processing
 
 These are just a couple of examples, but EC2 instances can be used for various other purposes such as running containerized applications, hosting databases, running machine learning models, and more. The versatility and scalability of EC2 instances make them a popular choice for a wide range of workloads in the cloud.
 
-* Provide 1 reason to use ECS instead of a service such as Heroku, Digital Ocean, or Render.com.
+#### Provide 1 reason to use ECS instead of a service such as Heroku, Digital Ocean, or Render.com.
 
-One reason to use Amazon Elastic Container Service (ECS) instead of services like Heroku, Digital Ocean, or Render.com is the deep integration with the broader AWS ecosystem. 
-
-AWS offers a comprehensive suite of cloud services, including storage (Amazon S3), databases (Amazon RDS), messaging (Amazon SNS), monitoring (Amazon CloudWatch), and many others. By using ECS, which is part of AWS, you can seamlessly integrate your containerized applications with these services.
-
-Here are a few benefits of leveraging the AWS ecosystem with ECS:
-
-1. Full Integration: ECS allows you to easily connect your containerized applications with other AWS services. For example, you can leverage Amazon RDS for managed database services, Amazon S3 for object storage, or Amazon DynamoDB for NoSQL databases. This integration enables you to build complex and scalable architectures by leveraging the various AWS services alongside your ECS containers.
-
-2. Scalability and Flexibility: AWS offers extensive scalability options and auto-scaling features that allow you to dynamically adjust the resources allocated to your ECS containers based on demand. You can easily scale up or down the number of containers and adjust resource allocation with AWS Auto Scaling. This level of scalability and flexibility can be beneficial for applications with varying workloads.
-
-3. Security and Compliance: AWS has strong security measures in place, including network security, data encryption, identity and access management, and compliance certifications. By using ECS within the AWS ecosystem, you can benefit from these security measures and leverage AWS services like AWS Identity and Access Management (IAM) for access control and AWS Key Management Service (KMS) for encryption of data at rest and in transit.
-
-4. Monitoring and Management: With ECS on AWS, you can utilize Amazon CloudWatch to monitor the performance, logs, and metrics of your containerized applications. CloudWatch provides valuable insights into the health and performance of your infrastructure, allowing you to troubleshoot and optimize your applications effectively.
-
-While services like Heroku, Digital Ocean, and Render.com may have their own strengths and unique features, the deep integration with the extensive AWS ecosystem is a significant advantage of using ECS. It provides a rich set of services, scalability options, security features, and monitoring capabilities, allowing you to build and manage your containerized applications within a robust and comprehensive cloud environment.
+One reason to use ECS (Elastic Container Service) instead of other services like Heroku, Digital Ocean, or Render.com is the flexibility and control it provides over infrastructure. ECS allows fine-grained customization and integration with other AWS services, making it suitable for complex and highly customizable containerized applications.
 
 
 [EC2 For Humans](https://www.youtube.com/watch?v=lZMkgOMYYIg)
 
-* Where can we find EC2 on the AWS Console?
+#### Where can we find EC2 on the AWS Console?
 
 To find EC2 on the AWS Management Console, you can follow these steps:
 
@@ -77,24 +46,18 @@ Alternatively, you can also locate EC2 by navigating through the AWS services. H
 The specific appearance and layout of the AWS Management Console may vary slightly based on updates or customization, but these steps should guide you to find EC2 and access the EC2 Dashboard for managing your virtual servers in the cloud.
 
 
-* Explain the general difference between T2 Micro and XL.
+#### Explain the general difference between T2 Micro and XL.
 
 The general difference between T2 Micro and XL instances lies in their performance, compute capacity, and pricing.
 
-1. Compute Capacity: T2 Micro and T2 XL instances belong to the T2 family of EC2 instances that are designed for general-purpose workloads and are based on a burstable performance model. However, the T2 Micro instance has lower compute capacity compared to the T2 XL instance.
+T2 Micro is a low-cost, entry-level instance designed for applications with low to moderate CPU usage. It provides a single vCPU and limited burstable performance using CPU credits. T2 Micro instances are suitable for small-scale applications, testing, and development environments.
 
-- T2 Micro: The T2 Micro instance is the smallest size available in the T2 family. It provides 1 vCPU (Virtual CPU) and a moderate baseline level of CPU performance. It is suitable for lightweight applications or low-traffic workloads that do not require significant processing power.
+On the other hand, XL refers to a larger instance size with higher specifications. XL instances offer more CPU power, memory, and storage capacity compared to T2 Micro. They are typically used for resource-intensive workloads, large-scale applications, databases, and production environments that require higher performance and scalability. XL instances are suitable for handling more significant workloads and demanding applications.
 
-- T2 XL: On the other hand, the T2 XL instance offers a larger compute capacity. It provides higher CPU performance with more vCPUs (typically 2 or more) and more memory compared to the T2 Micro instance. It is better suited for applications that require more processing power or handle higher traffic loads.
-
-2. Burstable Performance: Both T2 Micro and T2 XL instances follow a burstable performance model. They have CPU credits that accumulate over time when the workload is below the baseline performance level. During periods of increased demand, the instances can use the accumulated credits to burst above the baseline performance for short durations. Once the accumulated credits are exhausted, the instances revert to the baseline performance.
-
-3. Pricing: The pricing for T2 Micro and T2 XL instances also differs. T2 Micro instances are generally less expensive compared to T2 XL instances due to their lower compute capacity. AWS pricing is based on instance size, region, and usage, so it's important to review the AWS pricing documentation or the AWS Pricing Calculator for specific pricing details.
-
-It's important to consider your application's resource requirements, anticipated workload, and budget when choosing between T2 Micro and T2 XL instances. If your application needs more compute capacity and can benefit from higher performance, T2 XL instances may be a better fit. However, if you have a lightweight workload with lower resource demands, T2 Micro instances may be a more cost-effective choice.
+If your application needs more compute capacity and can benefit from higher performance, T2 XL instances may be a better fit. However, if you have a lightweight workload with lower resource demands, T2 Micro instances may be a more cost-effective choice.
 
 
-* Explain a “Compute Cycle” to a non-technical friend.
+#### Explain a “Compute Cycle” to a non-technical friend.
 
 
 Imagine you have a task that needs to be done, like solving a math problem or processing a large amount of data. To get the task done, you need a computer or a device with processing power.
@@ -110,13 +73,13 @@ The more powerful the computer, the faster it can complete these compute cycles 
 So, a compute cycle is like a small step that a computer takes to complete a task. By performing many compute cycles in sequence, the computer can process information, solve problems, and perform various tasks for us.
 
 
-Elastic Beanstalk
+### Elastic Beanstalk
 
-* What is Elastic Beanstalk?
+#### What is Elastic Beanstalk?
 
 Elastic Beanstalk is a platform as a service (PaaS) offered by Amazon Web Services (AWS). It simplifies the process of deploying, managing, and scaling applications in the cloud. With Elastic Beanstalk, developers can focus on writing code and let AWS handle the underlying infrastructure and platform management tasks.
 
-Here are some key points about Elastic Beanstalk:
+##### Here are some key points about Elastic Beanstalk:
 
 1. Application Deployment: Elastic Beanstalk allows you to deploy web applications developed in various programming languages such as Java, .NET, PHP, Node.js, Python, Ruby, and Go. It supports popular web frameworks and automatically handles the deployment of application code, including provisioning of resources like Amazon EC2 instances, load balancers, and databases.
 
@@ -133,21 +96,13 @@ Here are some key points about Elastic Beanstalk:
 Elastic Beanstalk simplifies the process of deploying and managing applications in the AWS cloud, making it an ideal choice for developers who want to focus on writing code and rely on AWS to handle the underlying infrastructure. It provides a scalable and managed environment for running web applications without the need for manual provisioning or complex setup.
 
 
-* Describe the relationship between EC2 and Elastic Beanstalk.
+#### Describe the relationship between EC2 and Elastic Beanstalk.
 
-The relationship between EC2 (Elastic Compute Cloud) and Elastic Beanstalk can be described as follows:
 
-EC2 is a foundational service within AWS that provides virtual servers (known as instances) in the cloud. It offers a flexible and scalable infrastructure for running various workloads. Users have full control over the EC2 instances, allowing them to customize the operating system, software, and configurations according to their needs. EC2 is highly configurable and suitable for a wide range of use cases.
+EC2 (Elastic Compute Cloud) is a web service that provides resizable compute capacity in the cloud. Elastic Beanstalk is a platform-as-a-service (PaaS) offering by AWS that automates the deployment and management of applications on EC2 instances, simplifying the process of deploying and scaling applications.
 
-Elastic Beanstalk, on the other hand, is a higher-level service provided by AWS that simplifies the deployment and management of applications in the cloud. It abstracts away the underlying infrastructure details and automates the process of deploying applications on AWS, including the provisioning of EC2 instances.
+#### Name some benefits of using Elastic Beanstalk.
 
-Elastic Beanstalk uses EC2 instances as the underlying compute resources for running the deployed applications. When you deploy an application using Elastic Beanstalk, it automatically provisions the necessary EC2 instances, load balancers, and other resources required to run your application. Elastic Beanstalk handles the deployment process, monitoring, and scaling of the EC2 instances based on the application's needs.
-
-Elastic Beanstalk provides a platform layer on top of EC2, managing the application lifecycle and allowing developers to focus on writing code rather than worrying about infrastructure management. It leverages the capabilities of EC2 for compute power, scalability, and flexibility.
-
-In summary, EC2 is a foundational service that provides the virtual server infrastructure, while Elastic Beanstalk is a higher-level service that simplifies application deployment and management by leveraging EC2 instances and other AWS resources. Elastic Beanstalk makes it easier to utilize the power of EC2 without the need for manual configuration and management, enabling developers to deploy applications quickly and efficiently.
-
-* Name some benefits of using Elastic Beanstalk.
 1. Easy Deployment: Elastic Beanstalk makes it easy to upload and deploy your applications without worrying about complicated setup or configurations.
 
 2. Scalability: Your application can automatically handle increased traffic and workload without you having to manually manage resources.
@@ -158,7 +113,7 @@ In summary, EC2 is a foundational service that provides the virtual server infra
 
 5. Monitoring and Troubleshooting: Elastic Beanstalk provides monitoring and logs to help you keep track of your application's performance and quickly identify and fix issues." - ChatGPT
 
-Bookmark and Review
+### Bookmark and Review
 
 [Virtual Machines](https://www.youtube.com/watch?v=yIVXjl4SwVo)
 
@@ -166,7 +121,7 @@ Bookmark and Review
 
 ### Additional Questions
 ____
-Looking ahead at this module’s course schedule, What do you look forward to learning?
+
 What are your learning goals after reading and reviewing the class [README](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-16/)?
 
 I would like to know enough to not incur huge charges from AWS.

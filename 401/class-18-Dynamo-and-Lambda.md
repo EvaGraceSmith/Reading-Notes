@@ -56,7 +56,7 @@ Dynamoose is an open-source JavaScript library that provides an easy-to-use inte
 
 #### What are some key features of Dynamoose?
 
-Some key features of Dynamoose include: easy object modeling for DynamoDB, support for data validation and type checking, automatic schema creation, query building and execution, middleware support, and compatibility with existing DynamoDB tables and indexes.
+Some key features of Dynamoose include: easy object modeling for DynamoDB, support for data validation and type checking, automatic schema creation, query building and execution, middleware support, and compatibility with existing DynamoDB tables and indexes." -ChatGPT
 
 ### Reflection
 
