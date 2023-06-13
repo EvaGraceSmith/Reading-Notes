@@ -93,7 +93,7 @@ This page includes my notes for each class. Feel free to follow along!
 - [Class 23](401/class-23.md)
 - [Class 24](401/class-24.md)
 - [Class 25](401/class-25.md)
-- [Class 26](401/class-26.md)
+- [Class 26 Component Based UI](401/class-26-Component-Based-UI.md)
 - [Class 27](401/class-27.md)
 - [Class 28](401/class-28.md)
 - [Class 29](401/class-29.md)
