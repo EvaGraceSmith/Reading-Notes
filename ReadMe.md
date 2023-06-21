@@ -94,7 +94,7 @@ This page includes my notes for each class. Feel free to follow along!
 - [Class 24](401/class-24.md)
 - [Class 25](401/class-25.md)
 - [Class 26 Component Based UI](401/class-26-Component-Based-UI.md)
-- [Class 27](401/class-27.md)
+- [Class 27 useState() Hook ](401/class-27-useState-Hook.md)
 - [Class 28](401/class-28.md)
 - [Class 29](401/class-29.md)
 - [Class 30](401/class-30.md)
