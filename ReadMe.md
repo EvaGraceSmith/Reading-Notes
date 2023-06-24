@@ -92,7 +92,7 @@ This page includes my notes for each class. Feel free to follow along!
 - [Class 29 Advanced State with Reducers](401/class-29-Reducers.md)
 - [Class 30](401/class-30.md)
 - [Class 31 Context API](401/class-31-Context-API.md)
-- [Class 32](401/class-32.md)
+- [Class 32 Context API - Behaviors](401/class-32-Context-API-Behaviors.md)
 - [Class 33](401/class-33.md)
 - [Class 34](401/class-34.md)
 - [Class 35](401/class-35.md)
