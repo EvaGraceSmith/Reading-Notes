@@ -2,7 +2,7 @@
 
 ### [Scaling Up with Reducer and Context](https://react.dev/learn/scaling-up-with-reducer-and-context)
 
-#### How do useReducer and useContext work together to simplify state management in a React application? (At least two paragraphs of prose.)
+#### How do useReducer and useContext work together to simplify state management in a React application? 
 
 "In a React application, the combination of useReducer and useContext can greatly simplify state management by providing a structured and centralized approach.
 
