@@ -94,7 +94,7 @@ This page includes my notes for each class. Feel free to follow along!
 - [Class 31 Context API](401/class-31-Context-API.md)
 - [Class 32 Context API - Behaviors](401/class-32-Context-API-Behaviors.md)
 - [Class 33 Login and Auth](401/class-33-Login-Auth.md)
-- [Class 34](401/class-34.md)
+- [Class 34 API Integration](401/class-34-API-Integration.md)
 - [Class 35](401/class-35.md)
 - [Class 36](401/class-36.md)
 - [Class 37](401/class-37.md)
