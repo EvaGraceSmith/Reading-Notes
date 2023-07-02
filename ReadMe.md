@@ -95,7 +95,7 @@ This page includes my notes for each class. Feel free to follow along!
 - [Class 32 Context API - Behaviors](401/class-32-Context-API-Behaviors.md)
 - [Class 33 Login and Auth](401/class-33-Login-Auth.md)
 - [Class 34 API Integration](401/class-34-API-Integration.md)
-- [Class 35](401/class-35.md)
+- [Class 35 Graphs](401/class-35-Graphs.md)
 - [Class 36 Application State with Redux](401/class-36-Application-State-with-Redux.md)
 - [Class 37](401/class-37.md)
 - [Class 38](401/class-38.md)
