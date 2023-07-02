@@ -18,7 +18,9 @@ The store in Redux is an object that holds the application state and provides me
 Three Redux store methods provided by createStore are:
 
 `getState()`: Retrieves the current state from the store.
+
 `dispatch(action)`: Dispatches an action to trigger a state change.
+
 `subscribe(listener)`: Registers a listener function that is called whenever the state changes.
 
 
