@@ -98,7 +98,7 @@ This page includes my notes for each class. Feel free to follow along!
 - [Class 35 Graphs](401/class-35-Graphs.md)
 - [Class 36 Application State with Redux](401/class-36-Application-State-with-Redux.md)
 - [Class 37 Redux - Combined Reducers](401/class-37-Redux-Combined-Reducers.md)
-- [Class 38](401/class-38.md)
+- [Class 38 Redux - Asynchronous Actions](401/class-38-Redux-Asynchronous-Actions.md)
 - [Class 39](401/class-39.md)
 - [Class 40](401/class-40.md)
 - [Class 41](401/class-41.md)
