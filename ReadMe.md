@@ -103,7 +103,7 @@ This page includes my notes for each class. Feel free to follow along!
 - [Class 40](401/class-40.md)
 - [Class 41](401/class-41.md)
 - [Class 42](401/class-42.md)
-- [Class 43](401/class-43.md)
+- [Class 43 React Native](401/class-43-React-Native.md)
 
 
 ![Image of Femalecodertocat](https://octodex.github.com/images/femalecodertocat.png)
