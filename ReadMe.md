@@ -102,8 +102,7 @@ This page includes my notes for each class. Feel free to follow along!
 - [Class 39 Redux - Additional Topics](401/class-39-Redux-Additional-Topics.md)
 - [Class 40 Ethics](401/class-40-Ethics.md)
 - [Class 40b Open Source](401/class-40-Open-Source.md)
-- [Class 41](401/class-41.md)
-- [Class 42](401/class-42.md)
+- [Class 41 Frameworks](401/class-41-Frameworks.md)
 - [Class 43 React Native](401/class-43-React-Native.md)
 
 
