@@ -8,7 +8,7 @@
 
 Multiple reducers are created to handle different slices of state in a Redux application, making the code more organized and maintainable.
 
-2. How would you combine multiple reducers?
+2. How would you combine multiple reducers
 
 To combine multiple reducers, you use Redux's combineReducers function, providing an object mapping the individual reducers to their corresponding state slices.
 
